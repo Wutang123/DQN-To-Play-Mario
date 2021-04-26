@@ -1,0 +1,2532 @@
+**************************************************
+Training Model:
+-------------------------
+Episode 0 - Reward: 18.2, Steps: 35, Epsilon: 1.0, Best: 18.2, Average: 18.2
+         New best average reward of 18.2!
+         Test Episode 0 - Reward: 183.25, Steps: 274
+-------------------------
+Training - We got struck
+Episode 1 - Reward: 38.55, Steps: 546, Epsilon: 0.994, Best: 38.55, Average: 28.375
+         New best average reward of 28.375!
+         Test Episode 1 - Reward: 99.3, Steps: 199
+-------------------------
+Episode 2 - Reward: 55.6, Steps: 84, Epsilon: 0.993, Best: 55.6, Average: 37.45
+         New best average reward of 37.45!
+         Test Episode 2 - Reward: 18.7, Steps: 37
+-------------------------
+Episode 3 - Reward: 19.35, Steps: 31, Epsilon: 0.993, Best: 55.6, Average: 32.925
+-------------------------
+Episode 4 - Reward: 17.3, Steps: 37, Epsilon: 0.993, Best: 55.6, Average: 29.8
+-------------------------
+Training - We got struck
+Episode 5 - Reward: 44.3, Steps: 273, Epsilon: 0.99, Best: 55.6, Average: 32.217
+-------------------------
+Training - We got struck
+Episode 6 - Reward: 61.2, Steps: 231, Epsilon: 0.988, Best: 61.2, Average: 36.357
+         New best average reward of 37.45!
+         Test Episode 3 - Reward: 58.25, Steps: 90
+-------------------------
+Episode 7 - Reward: 18.3, Steps: 33, Epsilon: 0.988, Best: 61.2, Average: 34.1
+-------------------------
+Episode 8 - Reward: 17.8, Steps: 37, Epsilon: 0.987, Best: 61.2, Average: 32.289
+-------------------------
+Episode 9 - Reward: 18.8, Steps: 34, Epsilon: 0.987, Best: 61.2, Average: 30.94
+-------------------------
+Episode 10 - Reward: 58.2, Steps: 153, Epsilon: 0.985, Best: 61.2, Average: 33.418
+-------------------------
+Training - We got struck
+Episode 11 - Reward: 43.15, Steps: 294, Epsilon: 0.982, Best: 61.2, Average: 34.229
+-------------------------
+Episode 12 - Reward: 18.55, Steps: 42, Epsilon: 0.982, Best: 61.2, Average: 33.023
+-------------------------
+Episode 13 - Reward: 57.5, Steps: 214, Epsilon: 0.98, Best: 61.2, Average: 34.771
+-------------------------
+Episode 14 - Reward: 59.3, Steps: 99, Epsilon: 0.979, Best: 61.2, Average: 36.407
+-------------------------
+Episode 15 - Reward: 57.25, Steps: 85, Epsilon: 0.978, Best: 61.2, Average: 37.709
+         New best average reward of 37.709!
+         Test Episode 4 - Reward: 99.65, Steps: 143
+-------------------------
+Episode 16 - Reward: 133.8, Steps: 405, Epsilon: 0.974, Best: 133.8, Average: 43.362
+         New best average reward of 43.362!
+         Test Episode 5 - Reward: 100.1, Steps: 168
+-------------------------
+Training - We got struck
+Episode 17 - Reward: 43.1, Steps: 231, Epsilon: 0.972, Best: 133.8, Average: 43.347
+-------------------------
+Episode 18 - Reward: 58.75, Steps: 83, Epsilon: 0.971, Best: 133.8, Average: 44.158
+         New best average reward of 44.158!
+         Test Episode 6 - Reward: 68.7, Steps: 142
+-------------------------
+Episode 19 - Reward: 18.7, Steps: 38, Epsilon: 0.971, Best: 133.8, Average: 42.885
+-------------------------
+Episode 20 - Reward: 55.45, Steps: 156, Epsilon: 0.969, Best: 133.8, Average: 43.483
+-------------------------
+Training - We got struck
+Episode 21 - Reward: 57.35, Steps: 462, Epsilon: 0.965, Best: 133.8, Average: 44.114
+-------------------------
+Episode 22 - Reward: 73.6, Steps: 261, Epsilon: 0.962, Best: 133.8, Average: 45.396
+         New best average reward of 45.396!
+         Test - We got stuck
+         Test Episode 7 - Reward: -20.7, Steps: 42
+-------------------------
+Episode 23 - Reward: 54.75, Steps: 95, Epsilon: 0.962, Best: 133.8, Average: 45.785
+         New best average reward of 45.785!
+         Test - We got stuck
+         Test Episode 8 - Reward: -20.7, Steps: 42
+-------------------------
+Episode 24 - Reward: 19.65, Steps: 34, Epsilon: 0.961, Best: 133.8, Average: 44.74
+-------------------------
+Episode 25 - Reward: 19.3, Steps: 37, Epsilon: 0.961, Best: 133.8, Average: 43.762
+-------------------------
+Episode 26 - Reward: 19.4, Steps: 35, Epsilon: 0.961, Best: 133.8, Average: 42.859
+-------------------------
+Training - We got struck
+Episode 27 - Reward: 42.65, Steps: 294, Epsilon: 0.958, Best: 133.8, Average: 42.852
+-------------------------
+Episode 28 - Reward: 67.2, Steps: 243, Epsilon: 0.955, Best: 133.8, Average: 43.691
+-------------------------
+Episode 29 - Reward: 56.45, Steps: 95, Epsilon: 0.955, Best: 133.8, Average: 44.117
+-------------------------
+Episode 30 - Reward: 17.5, Steps: 42, Epsilon: 0.954, Best: 133.8, Average: 43.258
+-------------------------
+Episode 31 - Reward: 19.2, Steps: 33, Epsilon: 0.954, Best: 133.8, Average: 42.506
+-------------------------
+Training - We got struck
+Episode 32 - Reward: 44.75, Steps: 210, Epsilon: 0.952, Best: 133.8, Average: 42.574
+-------------------------
+Episode 33 - Reward: 58.7, Steps: 155, Epsilon: 0.95, Best: 133.8, Average: 43.049
+-------------------------
+Training - We got struck
+Episode 34 - Reward: 42.65, Steps: 294, Epsilon: 0.948, Best: 133.8, Average: 43.037
+-------------------------
+Episode 35 - Reward: 18.2, Steps: 34, Epsilon: 0.947, Best: 133.8, Average: 42.347
+-------------------------
+Episode 36 - Reward: 54.75, Steps: 130, Epsilon: 0.946, Best: 133.8, Average: 42.682
+-------------------------
+Episode 37 - Reward: 18.85, Steps: 37, Epsilon: 0.946, Best: 133.8, Average: 42.055
+-------------------------
+Training - We got struck
+Episode 38 - Reward: 39.5, Steps: 462, Epsilon: 0.941, Best: 133.8, Average: 41.99
+-------------------------
+Training - We got struck
+Episode 39 - Reward: 45.05, Steps: 147, Epsilon: 0.94, Best: 133.8, Average: 42.066
+-------------------------
+Training - We got struck
+Episode 40 - Reward: 32.1, Steps: 168, Epsilon: 0.939, Best: 133.8, Average: 41.823
+-------------------------
+Training - We got struck
+Episode 41 - Reward: 45.15, Steps: 168, Epsilon: 0.937, Best: 133.8, Average: 41.902
+-------------------------
+Episode 42 - Reward: 18.7, Steps: 35, Epsilon: 0.937, Best: 133.8, Average: 41.363
+-------------------------
+Training - We got struck
+Episode 43 - Reward: 37.15, Steps: 567, Epsilon: 0.931, Best: 133.8, Average: 41.267
+-------------------------
+Training - We got struck
+Episode 44 - Reward: 33.3, Steps: 105, Epsilon: 0.93, Best: 133.8, Average: 41.09
+-------------------------
+Training - We got struck
+Episode 45 - Reward: 42.9, Steps: 294, Epsilon: 0.928, Best: 133.8, Average: 41.129
+-------------------------
+Training - We got struck
+Episode 46 - Reward: 42.95, Steps: 252, Epsilon: 0.925, Best: 133.8, Average: 41.168
+-------------------------
+Episode 47 - Reward: 54.6, Steps: 104, Epsilon: 0.924, Best: 133.8, Average: 41.448
+-------------------------
+Training - We got struck
+Episode 48 - Reward: 44.65, Steps: 168, Epsilon: 0.923, Best: 133.8, Average: 41.513
+-------------------------
+Training - We got struck
+Episode 49 - Reward: 43.7, Steps: 252, Epsilon: 0.921, Best: 133.8, Average: 41.557
+-------------------------
+Training - We got struck
+Episode 50 - Reward: 43.75, Steps: 210, Epsilon: 0.919, Best: 133.8, Average: 41.6
+-------------------------
+Episode 51 - Reward: 19.4, Steps: 35, Epsilon: 0.918, Best: 133.8, Average: 41.173
+-------------------------
+Training - We got struck
+Episode 52 - Reward: 44.65, Steps: 168, Epsilon: 0.917, Best: 133.8, Average: 41.239
+-------------------------
+Episode 53 - Reward: 17.65, Steps: 37, Epsilon: 0.917, Best: 133.8, Average: 40.802
+-------------------------
+Episode 54 - Reward: 57.55, Steps: 98, Epsilon: 0.916, Best: 133.8, Average: 41.106
+-------------------------
+Episode 55 - Reward: 57.2, Steps: 97, Epsilon: 0.915, Best: 133.8, Average: 41.394
+-------------------------
+Episode 56 - Reward: 135.4, Steps: 403, Epsilon: 0.911, Best: 135.4, Average: 43.043
+         New best average reward of 45.785!
+         Test - We got stuck
+         Test Episode 9 - Reward: 62.9, Steps: 147
+-------------------------
+Episode 57 - Reward: 66.15, Steps: 182, Epsilon: 0.91, Best: 135.4, Average: 43.441
+-------------------------
+Training - We got struck
+Episode 58 - Reward: 33.05, Steps: 105, Epsilon: 0.909, Best: 135.4, Average: 43.265
+-------------------------
+Training - We got struck
+Episode 59 - Reward: 44.1, Steps: 231, Epsilon: 0.907, Best: 135.4, Average: 43.279
+-------------------------
+Training - We got struck
+Episode 60 - Reward: 45.2, Steps: 126, Epsilon: 0.905, Best: 135.4, Average: 43.311
+-------------------------
+Training - We got struck
+Episode 61 - Reward: 44.6, Steps: 231, Epsilon: 0.903, Best: 135.4, Average: 43.331
+-------------------------
+Training - We got struck
+Episode 62 - Reward: 31.9, Steps: 126, Epsilon: 0.902, Best: 135.4, Average: 43.15
+-------------------------
+Episode 63 - Reward: 57.25, Steps: 82, Epsilon: 0.901, Best: 135.4, Average: 43.37
+-------------------------
+Training - We got struck
+Episode 64 - Reward: 32.5, Steps: 147, Epsilon: 0.9, Best: 135.4, Average: 43.203
+-------------------------
+Episode 65 - Reward: 19.0, Steps: 35, Epsilon: 0.9, Best: 135.4, Average: 42.836
+-------------------------
+Episode 66 - Reward: 57.0, Steps: 97, Epsilon: 0.899, Best: 135.4, Average: 43.048
+-------------------------
+Episode 67 - Reward: 55.8, Steps: 88, Epsilon: 0.898, Best: 135.4, Average: 43.235
+-------------------------
+Episode 68 - Reward: 58.0, Steps: 84, Epsilon: 0.897, Best: 135.4, Average: 43.449
+-------------------------
+Episode 69 - Reward: 54.8, Steps: 104, Epsilon: 0.897, Best: 135.4, Average: 43.611
+-------------------------
+Training - We got struck
+Episode 70 - Reward: 60.5, Steps: 315, Epsilon: 0.894, Best: 135.4, Average: 43.849
+-------------------------
+Training - We got struck
+Episode 71 - Reward: 42.45, Steps: 252, Epsilon: 0.892, Best: 135.4, Average: 43.83
+-------------------------
+Episode 72 - Reward: 17.65, Steps: 35, Epsilon: 0.891, Best: 135.4, Average: 43.471
+-------------------------
+Episode 73 - Reward: 19.0, Steps: 36, Epsilon: 0.891, Best: 135.4, Average: 43.141
+-------------------------
+Episode 74 - Reward: 73.45, Steps: 306, Epsilon: 0.888, Best: 135.4, Average: 43.545
+-------------------------
+Episode 75 - Reward: 18.45, Steps: 42, Epsilon: 0.888, Best: 135.4, Average: 43.214
+-------------------------
+Training - We got struck
+Episode 76 - Reward: 41.45, Steps: 378, Epsilon: 0.885, Best: 135.4, Average: 43.192
+-------------------------
+Episode 77 - Reward: 17.65, Steps: 36, Epsilon: 0.884, Best: 135.4, Average: 42.864
+-------------------------
+Episode 78 - Reward: 19.3, Steps: 33, Epsilon: 0.884, Best: 135.4, Average: 42.566
+-------------------------
+Training - We got struck
+Episode 79 - Reward: 44.5, Steps: 210, Epsilon: 0.882, Best: 135.4, Average: 42.59
+-------------------------
+Episode 80 - Reward: 64.55, Steps: 265, Epsilon: 0.88, Best: 135.4, Average: 42.861
+-------------------------
+Training - We got struck
+Episode 81 - Reward: 60.5, Steps: 294, Epsilon: 0.877, Best: 135.4, Average: 43.076
+-------------------------
+Episode 82 - Reward: 160.75, Steps: 463, Epsilon: 0.873, Best: 160.75, Average: 44.494
+         New best average reward of 45.785!
+         Test Episode 10 - Reward: 57.55, Steps: 86
+-------------------------
+Training - We got struck
+Episode 83 - Reward: 40.15, Steps: 294, Epsilon: 0.871, Best: 160.75, Average: 44.442
+-------------------------
+Training - We got struck
+Episode 84 - Reward: 46.35, Steps: 105, Epsilon: 0.87, Best: 160.75, Average: 44.465
+-------------------------
+Episode 85 - Reward: 56.5, Steps: 98, Epsilon: 0.869, Best: 160.75, Average: 44.605
+-------------------------
+Training - We got struck
+Episode 86 - Reward: 32.8, Steps: 84, Epsilon: 0.868, Best: 160.75, Average: 44.469
+-------------------------
+Episode 87 - Reward: 125.8, Steps: 388, Epsilon: 0.865, Best: 160.75, Average: 45.393
+-------------------------
+Episode 88 - Reward: 56.6, Steps: 99, Epsilon: 0.864, Best: 160.75, Average: 45.519
+-------------------------
+Training - We got struck
+Episode 89 - Reward: 56.05, Steps: 525, Epsilon: 0.86, Best: 160.75, Average: 45.636
+-------------------------
+Episode 90 - Reward: 55.55, Steps: 86, Epsilon: 0.859, Best: 160.75, Average: 45.745
+-------------------------
+Training - We got struck
+Episode 91 - Reward: 46.2, Steps: 126, Epsilon: 0.858, Best: 160.75, Average: 45.75
+-------------------------
+Training - We got struck
+Episode 92 - Reward: 46.2, Steps: 126, Epsilon: 0.857, Best: 160.75, Average: 45.755
+-------------------------
+Episode 93 - Reward: 57.9, Steps: 144, Epsilon: 0.855, Best: 160.75, Average: 45.884
+         New best average reward of 45.884!
+         Test - We got stuck
+         Test Episode 11 - Reward: 64.55, Steps: 126
+-------------------------
+Training - We got struck
+Episode 94 - Reward: 40.95, Steps: 378, Epsilon: 0.852, Best: 160.75, Average: 45.832
+-------------------------
+Episode 95 - Reward: 19.65, Steps: 30, Epsilon: 0.852, Best: 160.75, Average: 45.559
+-------------------------
+Training - We got struck
+Episode 96 - Reward: 45.15, Steps: 168, Epsilon: 0.851, Best: 160.75, Average: 45.555
+-------------------------
+Episode 97 - Reward: 19.45, Steps: 33, Epsilon: 0.85, Best: 160.75, Average: 45.289
+-------------------------
+Episode 98 - Reward: 117.95, Steps: 671, Epsilon: 0.845, Best: 160.75, Average: 46.023
+         New best average reward of 46.023!
+         Test - We got stuck
+         Test Episode 12 - Reward: 45.95, Steps: 126
+-------------------------
+Episode 99 - Reward: 16.95, Steps: 40, Epsilon: 0.844, Best: 160.75, Average: 45.732
+-------------------------
+Episode 100 - Reward: 162.05, Steps: 360, Epsilon: 0.841, Best: 162.05, Average: 47.171
+         New best average reward of 47.171!
+         Test Episode 13 - Reward: 69.1, Steps: 130
+-------------------------
+Episode 101 - Reward: 53.15, Steps: 124, Epsilon: 0.84, Best: 162.05, Average: 47.317
+         New best average reward of 47.317!
+         Test - We got stuck
+         Test Episode 14 - Reward: -10.2, Steps: 63
+-------------------------
+Episode 102 - Reward: 55.25, Steps: 103, Epsilon: 0.84, Best: 162.05, Average: 47.313
+-------------------------
+Episode 103 - Reward: 17.95, Steps: 36, Epsilon: 0.839, Best: 162.05, Average: 47.299
+-------------------------
+Training - We got struck
+Episode 104 - Reward: 33.4, Steps: 126, Epsilon: 0.838, Best: 162.05, Average: 47.46
+         New best average reward of 47.46!
+         Test Episode 15 - Reward: 60.0, Steps: 139
+-------------------------
+Episode 105 - Reward: 58.55, Steps: 148, Epsilon: 0.837, Best: 162.05, Average: 47.603
+         New best average reward of 47.603!
+         Test Episode 16 - Reward: 57.5, Steps: 102
+-------------------------
+Episode 106 - Reward: 55.3, Steps: 104, Epsilon: 0.836, Best: 162.05, Average: 47.544
+-------------------------
+Episode 107 - Reward: 17.75, Steps: 37, Epsilon: 0.836, Best: 162.05, Average: 47.538
+-------------------------
+Episode 108 - Reward: 56.5, Steps: 153, Epsilon: 0.835, Best: 162.05, Average: 47.925
+         New best average reward of 47.925!
+         Test Episode 17 - Reward: 59.5, Steps: 138
+-------------------------
+Episode 109 - Reward: 55.6, Steps: 107, Epsilon: 0.834, Best: 162.05, Average: 48.293
+         New best average reward of 48.293!
+         Test Episode 18 - Reward: 56.5, Steps: 65
+-------------------------
+Episode 110 - Reward: 54.4, Steps: 105, Epsilon: 0.833, Best: 162.05, Average: 48.255
+-------------------------
+Episode 111 - Reward: 120.8, Steps: 488, Epsilon: 0.829, Best: 162.05, Average: 49.032
+         New best average reward of 49.032!
+         Test Episode 19 - Reward: 19.6, Steps: 39
+-------------------------
+Episode 112 - Reward: 18.5, Steps: 36, Epsilon: 0.828, Best: 162.05, Average: 49.031
+-------------------------
+Episode 113 - Reward: 61.75, Steps: 447, Epsilon: 0.825, Best: 162.05, Average: 49.074
+         New best average reward of 49.074!
+         Test Episode 20 - Reward: 68.35, Steps: 130
+-------------------------
+Episode 114 - Reward: 18.75, Steps: 39, Epsilon: 0.825, Best: 162.05, Average: 48.668
+-------------------------
+Episode 115 - Reward: 56.2, Steps: 70, Epsilon: 0.824, Best: 162.05, Average: 48.658
+-------------------------
+Episode 116 - Reward: 57.95, Steps: 90, Epsilon: 0.823, Best: 162.05, Average: 47.899
+-------------------------
+Episode 117 - Reward: 19.05, Steps: 35, Epsilon: 0.823, Best: 162.05, Average: 47.659
+-------------------------
+Training - We got struck
+Episode 118 - Reward: 34.3, Steps: 84, Epsilon: 0.822, Best: 162.05, Average: 47.414
+-------------------------
+Episode 119 - Reward: 20.0, Steps: 32, Epsilon: 0.822, Best: 162.05, Average: 47.427
+-------------------------
+Training - We got struck
+Episode 120 - Reward: 32.8, Steps: 105, Epsilon: 0.821, Best: 162.05, Average: 47.201
+-------------------------
+Episode 121 - Reward: 56.4, Steps: 103, Epsilon: 0.82, Best: 162.05, Average: 47.191
+-------------------------
+Episode 122 - Reward: 75.9, Steps: 200, Epsilon: 0.819, Best: 162.05, Average: 47.214
+-------------------------
+Episode 123 - Reward: 56.2, Steps: 82, Epsilon: 0.818, Best: 162.05, Average: 47.229
+-------------------------
+Episode 124 - Reward: 58.85, Steps: 156, Epsilon: 0.817, Best: 162.05, Average: 47.621
+-------------------------
+Episode 125 - Reward: 19.25, Steps: 40, Epsilon: 0.816, Best: 162.05, Average: 47.62
+-------------------------
+Training - We got struck
+Episode 126 - Reward: 45.7, Steps: 126, Epsilon: 0.815, Best: 162.05, Average: 47.883
+-------------------------
+Episode 127 - Reward: 16.2, Steps: 46, Epsilon: 0.815, Best: 162.05, Average: 47.619
+-------------------------
+Episode 128 - Reward: 20.2, Steps: 27, Epsilon: 0.815, Best: 162.05, Average: 47.149
+-------------------------
+Training - We got struck
+Episode 129 - Reward: 44.25, Steps: 210, Epsilon: 0.813, Best: 162.05, Average: 47.027
+-------------------------
+Training - We got struck
+Episode 130 - Reward: 42.7, Steps: 252, Epsilon: 0.811, Best: 162.05, Average: 47.279
+-------------------------
+Episode 131 - Reward: 99.05, Steps: 154, Epsilon: 0.81, Best: 162.05, Average: 48.077
+-------------------------
+Episode 132 - Reward: 75.95, Steps: 206, Epsilon: 0.808, Best: 162.05, Average: 48.389
+-------------------------
+Episode 133 - Reward: 59.4, Steps: 90, Epsilon: 0.808, Best: 162.05, Average: 48.396
+-------------------------
+Episode 134 - Reward: 19.75, Steps: 33, Epsilon: 0.807, Best: 162.05, Average: 48.167
+-------------------------
+Episode 135 - Reward: 18.3, Steps: 38, Epsilon: 0.807, Best: 162.05, Average: 48.168
+-------------------------
+Episode 136 - Reward: 60.25, Steps: 86, Epsilon: 0.806, Best: 162.05, Average: 48.223
+-------------------------
+Training - We got struck
+Episode 137 - Reward: 44.8, Steps: 147, Epsilon: 0.805, Best: 162.05, Average: 48.483
+-------------------------
+Episode 138 - Reward: 58.15, Steps: 83, Epsilon: 0.804, Best: 162.05, Average: 48.669
+-------------------------
+Episode 139 - Reward: 17.2, Steps: 39, Epsilon: 0.804, Best: 162.05, Average: 48.391
+-------------------------
+Training - We got struck
+Episode 140 - Reward: 45.5, Steps: 189, Epsilon: 0.803, Best: 162.05, Average: 48.525
+-------------------------
+Episode 141 - Reward: 53.2, Steps: 168, Epsilon: 0.801, Best: 162.05, Average: 48.605
+-------------------------
+Episode 142 - Reward: 57.3, Steps: 146, Epsilon: 0.8, Best: 162.05, Average: 48.991
+-------------------------
+Episode 143 - Reward: 18.6, Steps: 40, Epsilon: 0.8, Best: 162.05, Average: 48.806
+-------------------------
+Training - We got struck
+Episode 144 - Reward: 45.3, Steps: 147, Epsilon: 0.799, Best: 162.05, Average: 48.926
+-------------------------
+Training - We got struck
+Episode 145 - Reward: 34.05, Steps: 105, Epsilon: 0.798, Best: 162.05, Average: 48.837
+-------------------------
+Episode 146 - Reward: 57.55, Steps: 92, Epsilon: 0.797, Best: 162.05, Average: 48.983
+-------------------------
+Episode 147 - Reward: 56.65, Steps: 105, Epsilon: 0.796, Best: 162.05, Average: 49.004
+-------------------------
+Episode 148 - Reward: 124.85, Steps: 380, Epsilon: 0.793, Best: 162.05, Average: 49.806
+         New best average reward of 49.806!
+         Test - We got stuck
+         Test Episode 21 - Reward: -19.7, Steps: 42
+-------------------------
+Training - We got struck
+Episode 149 - Reward: 57.8, Steps: 378, Epsilon: 0.79, Best: 162.05, Average: 49.947
+         New best average reward of 49.947!
+         Test Episode 22 - Reward: 59.15, Steps: 83
+-------------------------
+Episode 150 - Reward: 52.4, Steps: 115, Epsilon: 0.789, Best: 162.05, Average: 50.033
+         New best average reward of 50.033!
+         Test - We got stuck
+         Test Episode 23 - Reward: 46.2, Steps: 126
+-------------------------
+Episode 151 - Reward: 18.0, Steps: 44, Epsilon: 0.789, Best: 162.05, Average: 50.019
+-------------------------
+Training - We got struck
+Episode 152 - Reward: 44.9, Steps: 168, Epsilon: 0.788, Best: 162.05, Average: 50.022
+-------------------------
+Training - We got struck
+Episode 153 - Reward: 62.75, Steps: 168, Epsilon: 0.786, Best: 162.05, Average: 50.473
+         New best average reward of 50.473!
+         Test Episode 24 - Reward: 19.6, Steps: 32
+-------------------------
+Episode 154 - Reward: 133.85, Steps: 346, Epsilon: 0.784, Best: 162.05, Average: 51.236
+         New best average reward of 51.236!
+         Test - We got stuck
+         Test Episode 25 - Reward: -20.3, Steps: 42
+-------------------------
+Episode 155 - Reward: 65.15, Steps: 197, Epsilon: 0.782, Best: 162.05, Average: 51.315
+         New best average reward of 51.315!
+         Test Episode 26 - Reward: 57.8, Steps: 69
+-------------------------
+Episode 156 - Reward: 57.5, Steps: 91, Epsilon: 0.782, Best: 162.05, Average: 50.536
+-------------------------
+Episode 157 - Reward: 99.85, Steps: 151, Epsilon: 0.78, Best: 162.05, Average: 50.873
+-------------------------
+Episode 158 - Reward: 16.9, Steps: 47, Epsilon: 0.78, Best: 162.05, Average: 50.712
+-------------------------
+Training - We got struck
+Episode 159 - Reward: 45.7, Steps: 126, Epsilon: 0.779, Best: 162.05, Average: 50.728
+-------------------------
+Episode 160 - Reward: 69.9, Steps: 220, Epsilon: 0.777, Best: 162.05, Average: 50.975
+-------------------------
+Episode 161 - Reward: 19.2, Steps: 33, Epsilon: 0.777, Best: 162.05, Average: 50.721
+-------------------------
+Episode 162 - Reward: 58.6, Steps: 155, Epsilon: 0.776, Best: 162.05, Average: 50.988
+-------------------------
+Episode 163 - Reward: 76.3, Steps: 180, Epsilon: 0.775, Best: 162.05, Average: 51.178
+-------------------------
+Episode 164 - Reward: 17.2, Steps: 35, Epsilon: 0.774, Best: 162.05, Average: 51.025
+-------------------------
+Episode 165 - Reward: 53.6, Steps: 111, Epsilon: 0.773, Best: 162.05, Average: 51.371
+         New best average reward of 51.371!
+         Test - We got stuck
+         Test Episode 27 - Reward: 34.3, Steps: 84
+-------------------------
+Episode 166 - Reward: 19.5, Steps: 35, Epsilon: 0.773, Best: 162.05, Average: 50.996
+-------------------------
+Episode 167 - Reward: 76.3, Steps: 154, Epsilon: 0.772, Best: 162.05, Average: 51.201
+-------------------------
+Episode 168 - Reward: 54.9, Steps: 114, Epsilon: 0.771, Best: 162.05, Average: 51.17
+-------------------------
+Episode 169 - Reward: 18.6, Steps: 40, Epsilon: 0.771, Best: 162.05, Average: 50.808
+-------------------------
+Training - We got struck
+Episode 170 - Reward: 44.9, Steps: 168, Epsilon: 0.77, Best: 162.05, Average: 50.652
+-------------------------
+Episode 171 - Reward: 55.5, Steps: 98, Epsilon: 0.769, Best: 162.05, Average: 50.783
+-------------------------
+Episode 172 - Reward: 123.7, Steps: 395, Epsilon: 0.766, Best: 162.05, Average: 51.843
+         New best average reward of 51.843!
+         Test - We got stuck
+         Test Episode 28 - Reward: 33.15, Steps: 126
+-------------------------
+Training - We got struck
+Episode 173 - Reward: 32.8, Steps: 105, Epsilon: 0.765, Best: 162.05, Average: 51.981
+         New best average reward of 51.981!
+         Test - We got stuck
+         Test Episode 29 - Reward: -20.6, Steps: 42
+-------------------------
+Episode 174 - Reward: 18.8, Steps: 34, Epsilon: 0.765, Best: 162.05, Average: 51.435
+-------------------------
+Training - We got struck
+Episode 175 - Reward: 44.9, Steps: 168, Epsilon: 0.764, Best: 162.05, Average: 51.699
+-------------------------
+Episode 176 - Reward: 20.2, Steps: 42, Epsilon: 0.763, Best: 162.05, Average: 51.487
+-------------------------
+Episode 177 - Reward: 184.6, Steps: 465, Epsilon: 0.76, Best: 184.6, Average: 53.156
+         New best average reward of 53.156!
+         Test - We got stuck
+         Test Episode 30 - Reward: 45.95, Steps: 126
+-------------------------
+Episode 178 - Reward: 66.5, Steps: 566, Epsilon: 0.755, Best: 184.6, Average: 53.628
+         New best average reward of 53.628!
+         Test - We got stuck
+         Test Episode 31 - Reward: 63.5, Steps: 168
+-------------------------
+Training - We got struck
+Episode 179 - Reward: 42.85, Steps: 231, Epsilon: 0.754, Best: 184.6, Average: 53.612
+-------------------------
+Episode 180 - Reward: 19.95, Steps: 35, Epsilon: 0.753, Best: 184.6, Average: 53.166
+-------------------------
+Training - We got struck
+Episode 181 - Reward: 43.75, Steps: 210, Epsilon: 0.752, Best: 184.6, Average: 52.998
+-------------------------
+Episode 182 - Reward: 16.75, Steps: 39, Epsilon: 0.752, Best: 184.6, Average: 51.558
+-------------------------
+Training - We got struck
+Episode 183 - Reward: 44.5, Steps: 210, Epsilon: 0.75, Best: 184.6, Average: 51.602
+-------------------------
+Episode 184 - Reward: 59.0, Steps: 138, Epsilon: 0.749, Best: 184.6, Average: 51.728
+-------------------------
+Training - We got struck
+Episode 185 - Reward: 61.55, Steps: 252, Epsilon: 0.747, Best: 184.6, Average: 51.779
+-------------------------
+Episode 186 - Reward: 17.75, Steps: 41, Epsilon: 0.747, Best: 184.6, Average: 51.628
+-------------------------
+Episode 187 - Reward: 18.1, Steps: 34, Epsilon: 0.747, Best: 184.6, Average: 50.551
+-------------------------
+Training - We got struck
+Episode 188 - Reward: 45.25, Steps: 189, Epsilon: 0.745, Best: 184.6, Average: 50.438
+-------------------------
+Episode 189 - Reward: 54.95, Steps: 87, Epsilon: 0.745, Best: 184.6, Average: 50.427
+-------------------------
+Episode 190 - Reward: 55.65, Steps: 112, Epsilon: 0.744, Best: 184.6, Average: 50.428
+-------------------------
+Training - We got struck
+Episode 191 - Reward: 61.65, Steps: 273, Epsilon: 0.742, Best: 184.6, Average: 50.582
+-------------------------
+Episode 192 - Reward: 54.0, Steps: 98, Epsilon: 0.741, Best: 184.6, Average: 50.66
+-------------------------
+Training - We got struck
+Episode 193 - Reward: 59.6, Steps: 336, Epsilon: 0.739, Best: 184.6, Average: 50.677
+-------------------------
+Episode 194 - Reward: 18.9, Steps: 30, Epsilon: 0.738, Best: 184.6, Average: 50.457
+-------------------------
+Episode 195 - Reward: 58.85, Steps: 160, Epsilon: 0.737, Best: 184.6, Average: 50.849
+-------------------------
+Training - We got struck
+Episode 196 - Reward: 62.6, Steps: 210, Epsilon: 0.736, Best: 184.6, Average: 51.023
+-------------------------
+Episode 197 - Reward: 56.1, Steps: 101, Epsilon: 0.735, Best: 184.6, Average: 51.39
+-------------------------
+Episode 198 - Reward: 126.65, Steps: 352, Epsilon: 0.732, Best: 184.6, Average: 51.477
+-------------------------
+Episode 199 - Reward: 55.45, Steps: 95, Epsilon: 0.732, Best: 184.6, Average: 51.862
+-------------------------
+Episode 200 - Reward: 20.45, Steps: 34, Epsilon: 0.732, Best: 184.6, Average: 50.446
+-------------------------
+Training - We got struck
+Episode 201 - Reward: 44.0, Steps: 210, Epsilon: 0.73, Best: 184.6, Average: 50.354
+-------------------------
+Episode 202 - Reward: 54.05, Steps: 110, Epsilon: 0.729, Best: 184.6, Average: 50.342
+-------------------------
+Episode 203 - Reward: 18.35, Steps: 37, Epsilon: 0.729, Best: 184.6, Average: 50.346
+-------------------------
+Episode 204 - Reward: 17.5, Steps: 38, Epsilon: 0.729, Best: 184.6, Average: 50.187
+-------------------------
+Training - We got struck
+Episode 205 - Reward: 33.55, Steps: 105, Epsilon: 0.728, Best: 184.6, Average: 49.937
+-------------------------
+Episode 206 - Reward: 18.75, Steps: 34, Epsilon: 0.728, Best: 184.6, Average: 49.572
+-------------------------
+Episode 207 - Reward: 17.5, Steps: 44, Epsilon: 0.727, Best: 184.6, Average: 49.569
+-------------------------
+Episode 208 - Reward: 66.3, Steps: 141, Epsilon: 0.726, Best: 184.6, Average: 49.667
+-------------------------
+Episode 209 - Reward: 100.2, Steps: 212, Epsilon: 0.725, Best: 184.6, Average: 50.113
+-------------------------
+Episode 210 - Reward: 18.2, Steps: 35, Epsilon: 0.725, Best: 184.6, Average: 49.751
+-------------------------
+Episode 211 - Reward: 56.25, Steps: 74, Epsilon: 0.724, Best: 184.6, Average: 49.106
+-------------------------
+Episode 212 - Reward: 57.95, Steps: 100, Epsilon: 0.723, Best: 184.6, Average: 49.5
+-------------------------
+Training - We got struck
+Episode 213 - Reward: 44.75, Steps: 210, Epsilon: 0.722, Best: 184.6, Average: 49.33
+-------------------------
+Episode 214 - Reward: 59.9, Steps: 95, Epsilon: 0.721, Best: 184.6, Average: 49.742
+-------------------------
+Training - We got struck
+Episode 215 - Reward: 44.9, Steps: 168, Epsilon: 0.72, Best: 184.6, Average: 49.629
+-------------------------
+Episode 216 - Reward: 53.0, Steps: 125, Epsilon: 0.719, Best: 184.6, Average: 49.579
+-------------------------
+Training - We got struck
+Episode 217 - Reward: 44.8, Steps: 147, Epsilon: 0.718, Best: 184.6, Average: 49.837
+-------------------------
+Episode 218 - Reward: 16.65, Steps: 48, Epsilon: 0.718, Best: 184.6, Average: 49.66
+-------------------------
+Episode 219 - Reward: 59.05, Steps: 149, Epsilon: 0.717, Best: 184.6, Average: 50.051
+-------------------------
+Episode 220 - Reward: 58.9, Steps: 141, Epsilon: 0.716, Best: 184.6, Average: 50.312
+-------------------------
+Episode 221 - Reward: 55.75, Steps: 93, Epsilon: 0.715, Best: 184.6, Average: 50.305
+-------------------------
+Episode 222 - Reward: 98.35, Steps: 240, Epsilon: 0.713, Best: 184.6, Average: 50.53
+-------------------------
+Episode 223 - Reward: 54.45, Steps: 102, Epsilon: 0.713, Best: 184.6, Average: 50.512
+-------------------------
+Episode 224 - Reward: 55.55, Steps: 98, Epsilon: 0.712, Best: 184.6, Average: 50.479
+-------------------------
+Episode 225 - Reward: 17.85, Steps: 40, Epsilon: 0.712, Best: 184.6, Average: 50.465
+-------------------------
+Episode 226 - Reward: 17.4, Steps: 42, Epsilon: 0.711, Best: 184.6, Average: 50.182
+-------------------------
+Episode 227 - Reward: 17.9, Steps: 43, Epsilon: 0.711, Best: 184.6, Average: 50.199
+-------------------------
+Training - We got struck
+Episode 228 - Reward: 41.95, Steps: 378, Epsilon: 0.708, Best: 184.6, Average: 50.417
+-------------------------
+Episode 229 - Reward: 59.55, Steps: 72, Epsilon: 0.708, Best: 184.6, Average: 50.57
+-------------------------
+Training - We got struck
+Episode 230 - Reward: 59.1, Steps: 336, Epsilon: 0.706, Best: 184.6, Average: 50.734
+-------------------------
+Episode 231 - Reward: 75.95, Steps: 156, Epsilon: 0.704, Best: 184.6, Average: 50.503
+-------------------------
+Episode 232 - Reward: 17.95, Steps: 41, Epsilon: 0.704, Best: 184.6, Average: 49.923
+-------------------------
+Episode 233 - Reward: 20.1, Steps: 33, Epsilon: 0.704, Best: 184.6, Average: 49.53
+-------------------------
+Episode 234 - Reward: 58.15, Steps: 101, Epsilon: 0.703, Best: 184.6, Average: 49.914
+-------------------------
+Episode 235 - Reward: 58.8, Steps: 145, Epsilon: 0.702, Best: 184.6, Average: 50.319
+-------------------------
+Episode 236 - Reward: 55.55, Steps: 70, Epsilon: 0.702, Best: 184.6, Average: 50.272
+-------------------------
+Episode 237 - Reward: 19.4, Steps: 36, Epsilon: 0.702, Best: 184.6, Average: 50.018
+-------------------------
+Episode 238 - Reward: 56.7, Steps: 100, Epsilon: 0.701, Best: 184.6, Average: 50.003
+-------------------------
+Episode 239 - Reward: 55.2, Steps: 110, Epsilon: 0.7, Best: 184.6, Average: 50.383
+-------------------------
+Episode 240 - Reward: 17.3, Steps: 40, Epsilon: 0.7, Best: 184.6, Average: 50.101
+-------------------------
+Training - We got struck
+Episode 241 - Reward: 62.1, Steps: 210, Epsilon: 0.698, Best: 184.6, Average: 50.19
+-------------------------
+Episode 242 - Reward: 56.2, Steps: 81, Epsilon: 0.698, Best: 184.6, Average: 50.179
+-------------------------
+Episode 243 - Reward: 94.05, Steps: 462, Epsilon: 0.695, Best: 184.6, Average: 50.934
+-------------------------
+Episode 244 - Reward: 53.25, Steps: 102, Epsilon: 0.694, Best: 184.6, Average: 51.013
+-------------------------
+Episode 245 - Reward: 17.3, Steps: 39, Epsilon: 0.694, Best: 184.6, Average: 50.846
+-------------------------
+Training - We got struck
+Episode 246 - Reward: 46.2, Steps: 126, Epsilon: 0.693, Best: 184.6, Average: 50.732
+-------------------------
+Episode 247 - Reward: 18.0, Steps: 36, Epsilon: 0.693, Best: 184.6, Average: 50.346
+-------------------------
+Episode 248 - Reward: 17.5, Steps: 39, Epsilon: 0.692, Best: 184.6, Average: 49.272
+-------------------------
+Training - We got struck
+Episode 249 - Reward: 33.55, Steps: 105, Epsilon: 0.692, Best: 184.6, Average: 49.03
+-------------------------
+Episode 250 - Reward: 56.95, Steps: 71, Epsilon: 0.691, Best: 184.6, Average: 49.075
+-------------------------
+Episode 251 - Reward: 97.4, Steps: 244, Epsilon: 0.689, Best: 184.6, Average: 49.869
+-------------------------
+Episode 252 - Reward: 74.95, Steps: 208, Epsilon: 0.688, Best: 184.6, Average: 50.17
+-------------------------
+Episode 253 - Reward: 17.45, Steps: 35, Epsilon: 0.688, Best: 184.6, Average: 49.717
+-------------------------
+Episode 254 - Reward: 59.3, Steps: 146, Epsilon: 0.687, Best: 184.6, Average: 48.971
+-------------------------
+Episode 255 - Reward: 19.0, Steps: 33, Epsilon: 0.687, Best: 184.6, Average: 48.51
+-------------------------
+Training - We got struck
+Episode 256 - Reward: 44.65, Steps: 168, Epsilon: 0.685, Best: 184.6, Average: 48.381
+-------------------------
+Training - We got struck
+Episode 257 - Reward: 33.8, Steps: 84, Epsilon: 0.685, Best: 184.6, Average: 47.721
+-------------------------
+Episode 258 - Reward: 19.75, Steps: 31, Epsilon: 0.685, Best: 184.6, Average: 47.749
+-------------------------
+Episode 259 - Reward: 126.75, Steps: 191, Epsilon: 0.683, Best: 184.6, Average: 48.56
+-------------------------
+Episode 260 - Reward: 58.05, Steps: 146, Epsilon: 0.682, Best: 184.6, Average: 48.441
+-------------------------
+Episode 261 - Reward: 57.35, Steps: 152, Epsilon: 0.681, Best: 184.6, Average: 48.823
+-------------------------
+Episode 262 - Reward: 57.8, Steps: 99, Epsilon: 0.681, Best: 184.6, Average: 48.815
+-------------------------
+Training - We got struck
+Episode 263 - Reward: 62.6, Steps: 210, Epsilon: 0.679, Best: 184.6, Average: 48.678
+-------------------------
+Episode 264 - Reward: 17.85, Steps: 32, Epsilon: 0.679, Best: 184.6, Average: 48.684
+-------------------------
+Training - We got struck
+Episode 265 - Reward: 60.0, Steps: 294, Epsilon: 0.677, Best: 184.6, Average: 48.748
+-------------------------
+Episode 266 - Reward: 19.4, Steps: 31, Epsilon: 0.677, Best: 184.6, Average: 48.747
+-------------------------
+Episode 267 - Reward: 58.65, Steps: 144, Epsilon: 0.676, Best: 184.6, Average: 48.571
+-------------------------
+Episode 268 - Reward: 17.65, Steps: 43, Epsilon: 0.676, Best: 184.6, Average: 48.198
+-------------------------
+Episode 269 - Reward: 19.9, Steps: 36, Epsilon: 0.675, Best: 184.6, Average: 48.211
+-------------------------
+Episode 270 - Reward: 74.15, Steps: 249, Epsilon: 0.674, Best: 184.6, Average: 48.504
+-------------------------
+Episode 271 - Reward: 60.1, Steps: 82, Epsilon: 0.673, Best: 184.6, Average: 48.55
+-------------------------
+Episode 272 - Reward: 55.6, Steps: 95, Epsilon: 0.673, Best: 184.6, Average: 47.869
+-------------------------
+Episode 273 - Reward: 18.95, Steps: 39, Epsilon: 0.672, Best: 184.6, Average: 47.73
+-------------------------
+Episode 274 - Reward: 19.0, Steps: 35, Epsilon: 0.672, Best: 184.6, Average: 47.732
+-------------------------
+Episode 275 - Reward: 58.85, Steps: 86, Epsilon: 0.672, Best: 184.6, Average: 47.872
+-------------------------
+Episode 276 - Reward: 70.8, Steps: 135, Epsilon: 0.671, Best: 184.6, Average: 48.378
+-------------------------
+Episode 277 - Reward: 59.25, Steps: 110, Epsilon: 0.67, Best: 184.6, Average: 47.124
+-------------------------
+Episode 278 - Reward: 58.2, Steps: 151, Epsilon: 0.669, Best: 184.6, Average: 47.041
+-------------------------
+Episode 279 - Reward: 20.4, Steps: 33, Epsilon: 0.669, Best: 184.6, Average: 46.817
+-------------------------
+Training - We got struck
+Episode 280 - Reward: 45.05, Steps: 147, Epsilon: 0.668, Best: 184.6, Average: 47.068
+-------------------------
+Training - We got struck
+Episode 281 - Reward: 45.7, Steps: 126, Epsilon: 0.667, Best: 184.6, Average: 47.087
+-------------------------
+Episode 282 - Reward: 54.7, Steps: 104, Epsilon: 0.666, Best: 184.6, Average: 47.467
+-------------------------
+Episode 283 - Reward: 56.85, Steps: 106, Epsilon: 0.666, Best: 184.6, Average: 47.59
+-------------------------
+Training - We got struck
+Episode 284 - Reward: 32.75, Steps: 147, Epsilon: 0.665, Best: 184.6, Average: 47.328
+-------------------------
+Episode 285 - Reward: 56.7, Steps: 102, Epsilon: 0.664, Best: 184.6, Average: 47.279
+-------------------------
+Episode 286 - Reward: 58.45, Steps: 153, Epsilon: 0.663, Best: 184.6, Average: 47.686
+-------------------------
+Training - We got struck
+Episode 287 - Reward: 46.6, Steps: 105, Epsilon: 0.662, Best: 184.6, Average: 47.971
+-------------------------
+Episode 288 - Reward: 55.5, Steps: 89, Epsilon: 0.662, Best: 184.6, Average: 48.074
+-------------------------
+Training - We got struck
+Episode 289 - Reward: 44.2, Steps: 252, Epsilon: 0.66, Best: 184.6, Average: 47.966
+-------------------------
+Episode 290 - Reward: 54.45, Steps: 100, Epsilon: 0.659, Best: 184.6, Average: 47.954
+-------------------------
+Episode 291 - Reward: 58.8, Steps: 149, Epsilon: 0.658, Best: 184.6, Average: 47.926
+-------------------------
+Episode 292 - Reward: 19.35, Steps: 34, Epsilon: 0.658, Best: 184.6, Average: 47.579
+-------------------------
+Episode 293 - Reward: 56.35, Steps: 79, Epsilon: 0.658, Best: 184.6, Average: 47.547
+-------------------------
+Episode 294 - Reward: 56.15, Steps: 94, Epsilon: 0.657, Best: 184.6, Average: 47.919
+-------------------------
+Training - We got struck
+Episode 295 - Reward: 62.35, Steps: 210, Epsilon: 0.656, Best: 184.6, Average: 47.954
+-------------------------
+Episode 296 - Reward: 56.65, Steps: 83, Epsilon: 0.655, Best: 184.6, Average: 47.895
+-------------------------
+Episode 297 - Reward: 57.55, Steps: 102, Epsilon: 0.654, Best: 184.6, Average: 47.909
+-------------------------
+Episode 298 - Reward: 63.35, Steps: 200, Epsilon: 0.653, Best: 184.6, Average: 47.276
+-------------------------
+Episode 299 - Reward: 18.8, Steps: 32, Epsilon: 0.653, Best: 184.6, Average: 46.91
+-------------------------
+Episode 300 - Reward: 20.0, Steps: 33, Epsilon: 0.653, Best: 184.6, Average: 46.905
+-------------------------
+Training - We got struck
+Episode 301 - Reward: 63.4, Steps: 147, Epsilon: 0.652, Best: 184.6, Average: 47.099
+-------------------------
+Episode 302 - Reward: 18.4, Steps: 32, Epsilon: 0.652, Best: 184.6, Average: 46.743
+-------------------------
+Episode 303 - Reward: 59.9, Steps: 95, Epsilon: 0.651, Best: 184.6, Average: 47.158
+-------------------------
+Episode 304 - Reward: 58.5, Steps: 86, Epsilon: 0.65, Best: 184.6, Average: 47.568
+-------------------------
+Episode 305 - Reward: 57.15, Steps: 88, Epsilon: 0.65, Best: 184.6, Average: 47.804
+-------------------------
+Episode 306 - Reward: 17.85, Steps: 43, Epsilon: 0.65, Best: 184.6, Average: 47.795
+-------------------------
+Training - We got struck
+Episode 307 - Reward: 43.75, Steps: 210, Epsilon: 0.648, Best: 184.6, Average: 48.058
+-------------------------
+Training - We got struck
+Episode 308 - Reward: 62.1, Steps: 210, Epsilon: 0.647, Best: 184.6, Average: 48.016
+-------------------------
+Training - We got struck
+Episode 309 - Reward: 62.65, Steps: 147, Epsilon: 0.646, Best: 184.6, Average: 47.64
+-------------------------
+Training - We got struck
+Episode 310 - Reward: 43.85, Steps: 231, Epsilon: 0.645, Best: 184.6, Average: 47.897
+-------------------------
+Training - We got struck
+Episode 311 - Reward: 32.8, Steps: 105, Epsilon: 0.644, Best: 184.6, Average: 47.662
+-------------------------
+Episode 312 - Reward: 58.5, Steps: 163, Epsilon: 0.643, Best: 184.6, Average: 47.668
+-------------------------
+Training - We got struck
+Episode 313 - Reward: 56.65, Steps: 147, Epsilon: 0.642, Best: 184.6, Average: 47.787
+-------------------------
+Training - We got struck
+Episode 314 - Reward: 45.45, Steps: 126, Epsilon: 0.641, Best: 184.6, Average: 47.642
+-------------------------
+Episode 315 - Reward: 56.7, Steps: 72, Epsilon: 0.641, Best: 184.6, Average: 47.76
+-------------------------
+Episode 316 - Reward: 19.65, Steps: 30, Epsilon: 0.64, Best: 184.6, Average: 47.427
+-------------------------
+Training - We got struck
+Episode 317 - Reward: 46.6, Steps: 105, Epsilon: 0.64, Best: 184.6, Average: 47.445
+-------------------------
+Episode 318 - Reward: 54.6, Steps: 130, Epsilon: 0.639, Best: 184.6, Average: 47.824
+-------------------------
+Training - We got struck
+Episode 319 - Reward: 33.55, Steps: 105, Epsilon: 0.638, Best: 184.6, Average: 47.569
+-------------------------
+Episode 320 - Reward: 68.65, Steps: 168, Epsilon: 0.637, Best: 184.6, Average: 47.667
+-------------------------
+Episode 321 - Reward: 97.25, Steps: 286, Epsilon: 0.635, Best: 184.6, Average: 48.082
+-------------------------
+Training - We got struck
+Episode 322 - Reward: 31.35, Steps: 168, Epsilon: 0.634, Best: 184.6, Average: 47.412
+-------------------------
+Episode 323 - Reward: 19.9, Steps: 32, Epsilon: 0.634, Best: 184.6, Average: 47.066
+-------------------------
+Episode 324 - Reward: 59.0, Steps: 140, Epsilon: 0.633, Best: 184.6, Average: 47.101
+-------------------------
+Episode 325 - Reward: 19.6, Steps: 29, Epsilon: 0.633, Best: 184.6, Average: 47.118
+-------------------------
+Episode 326 - Reward: 99.65, Steps: 182, Epsilon: 0.632, Best: 184.6, Average: 47.941
+-------------------------
+Episode 327 - Reward: 19.15, Steps: 34, Epsilon: 0.632, Best: 184.6, Average: 47.953
+-------------------------
+Training - We got struck
+Episode 328 - Reward: 33.8, Steps: 105, Epsilon: 0.631, Best: 184.6, Average: 47.872
+-------------------------
+Episode 329 - Reward: 17.7, Steps: 37, Epsilon: 0.631, Best: 184.6, Average: 47.453
+-------------------------
+Training - We got struck
+Episode 330 - Reward: 45.15, Steps: 168, Epsilon: 0.63, Best: 184.6, Average: 47.314
+-------------------------
+Training - We got struck
+Episode 331 - Reward: 44.75, Steps: 189, Epsilon: 0.629, Best: 184.6, Average: 47.002
+-------------------------
+Episode 332 - Reward: 19.0, Steps: 36, Epsilon: 0.629, Best: 184.6, Average: 47.012
+-------------------------
+Episode 333 - Reward: 18.6, Steps: 39, Epsilon: 0.628, Best: 184.6, Average: 46.997
+-------------------------
+Training - We got struck
+Episode 334 - Reward: 45.95, Steps: 126, Epsilon: 0.627, Best: 184.6, Average: 46.875
+-------------------------
+Episode 335 - Reward: 17.65, Steps: 36, Epsilon: 0.627, Best: 184.6, Average: 46.464
+-------------------------
+Training - We got struck
+Episode 336 - Reward: 44.75, Steps: 210, Epsilon: 0.626, Best: 184.6, Average: 46.356
+-------------------------
+Training - We got struck
+Episode 337 - Reward: 42.15, Steps: 294, Epsilon: 0.624, Best: 184.6, Average: 46.583
+-------------------------
+Training - We got struck
+Episode 338 - Reward: 45.0, Steps: 189, Epsilon: 0.623, Best: 184.6, Average: 46.466
+-------------------------
+Episode 339 - Reward: 57.45, Steps: 97, Epsilon: 0.622, Best: 184.6, Average: 46.489
+-------------------------
+Episode 340 - Reward: 77.25, Steps: 144, Epsilon: 0.622, Best: 184.6, Average: 47.088
+-------------------------
+Episode 341 - Reward: 17.2, Steps: 38, Epsilon: 0.621, Best: 184.6, Average: 46.639
+-------------------------
+Episode 342 - Reward: 74.95, Steps: 260, Epsilon: 0.62, Best: 184.6, Average: 46.827
+-------------------------
+Episode 343 - Reward: 66.95, Steps: 227, Epsilon: 0.618, Best: 184.6, Average: 46.556
+-------------------------
+Training - We got struck
+Episode 344 - Reward: 32.8, Steps: 105, Epsilon: 0.618, Best: 184.6, Average: 46.351
+-------------------------
+Episode 345 - Reward: 18.3, Steps: 42, Epsilon: 0.617, Best: 184.6, Average: 46.361
+-------------------------
+Episode 346 - Reward: 18.5, Steps: 38, Epsilon: 0.617, Best: 184.6, Average: 46.084
+-------------------------
+Episode 347 - Reward: 101.4, Steps: 173, Epsilon: 0.616, Best: 184.6, Average: 46.918
+-------------------------
+Episode 348 - Reward: 18.8, Steps: 38, Epsilon: 0.616, Best: 184.6, Average: 46.931
+-------------------------
+Episode 349 - Reward: 18.8, Steps: 30, Epsilon: 0.616, Best: 184.6, Average: 46.784
+-------------------------
+Training - We got struck
+Episode 350 - Reward: 61.85, Steps: 210, Epsilon: 0.614, Best: 184.6, Average: 46.833
+-------------------------
+Training - We got struck
+Episode 351 - Reward: 45.15, Steps: 168, Epsilon: 0.613, Best: 184.6, Average: 46.31
+-------------------------
+Episode 352 - Reward: 56.7, Steps: 94, Epsilon: 0.613, Best: 184.6, Average: 46.128
+-------------------------
+Training - We got struck
+Episode 353 - Reward: 61.7, Steps: 231, Epsilon: 0.611, Best: 184.6, Average: 46.57
+-------------------------
+Episode 354 - Reward: 18.4, Steps: 31, Epsilon: 0.611, Best: 184.6, Average: 46.161
+-------------------------
+Training - We got struck
+Episode 355 - Reward: 45.3, Steps: 147, Epsilon: 0.61, Best: 184.6, Average: 46.424
+-------------------------
+Training - We got struck
+Episode 356 - Reward: 46.7, Steps: 126, Epsilon: 0.61, Best: 184.6, Average: 46.445
+-------------------------
+Training - We got struck
+Episode 357 - Reward: 44.65, Steps: 168, Epsilon: 0.609, Best: 184.6, Average: 46.553
+-------------------------
+Episode 358 - Reward: 162.7, Steps: 339, Epsilon: 0.607, Best: 184.6, Average: 47.983
+-------------------------
+Episode 359 - Reward: 57.1, Steps: 157, Epsilon: 0.606, Best: 184.6, Average: 47.286
+-------------------------
+Training - We got struck
+Episode 360 - Reward: 45.8, Steps: 147, Epsilon: 0.605, Best: 184.6, Average: 47.164
+-------------------------
+Episode 361 - Reward: 57.95, Steps: 98, Epsilon: 0.604, Best: 184.6, Average: 47.17
+-------------------------
+Episode 362 - Reward: 74.4, Steps: 152, Epsilon: 0.603, Best: 184.6, Average: 47.336
+-------------------------
+Training - We got struck
+Episode 363 - Reward: 45.7, Steps: 126, Epsilon: 0.603, Best: 184.6, Average: 47.167
+-------------------------
+Episode 364 - Reward: 69.45, Steps: 149, Epsilon: 0.602, Best: 184.6, Average: 47.683
+-------------------------
+Episode 365 - Reward: 57.0, Steps: 109, Epsilon: 0.601, Best: 184.6, Average: 47.653
+-------------------------
+Episode 366 - Reward: 55.35, Steps: 106, Epsilon: 0.6, Best: 184.6, Average: 48.012
+-------------------------
+Episode 367 - Reward: 127.45, Steps: 179, Epsilon: 0.599, Best: 184.6, Average: 48.7
+-------------------------
+Episode 368 - Reward: 68.9, Steps: 165, Epsilon: 0.598, Best: 184.6, Average: 49.213
+-------------------------
+Episode 369 - Reward: 57.35, Steps: 94, Epsilon: 0.598, Best: 184.6, Average: 49.587
+-------------------------
+Training - We got struck
+Episode 370 - Reward: 44.5, Steps: 210, Epsilon: 0.597, Best: 184.6, Average: 49.291
+-------------------------
+Episode 371 - Reward: 55.4, Steps: 113, Epsilon: 0.596, Best: 184.6, Average: 49.244
+-------------------------
+Episode 372 - Reward: 60.0, Steps: 139, Epsilon: 0.595, Best: 184.6, Average: 49.288
+-------------------------
+Training - We got struck
+Episode 373 - Reward: 62.0, Steps: 168, Epsilon: 0.594, Best: 184.6, Average: 49.718
+-------------------------
+Training - We got struck
+Episode 374 - Reward: 62.1, Steps: 189, Epsilon: 0.593, Best: 184.6, Average: 50.149
+-------------------------
+Training - We got struck
+Episode 375 - Reward: 33.55, Steps: 105, Epsilon: 0.592, Best: 184.6, Average: 49.896
+-------------------------
+Episode 376 - Reward: 56.1, Steps: 70, Epsilon: 0.592, Best: 184.6, Average: 49.749
+-------------------------
+Episode 377 - Reward: 17.25, Steps: 41, Epsilon: 0.592, Best: 184.6, Average: 49.329
+-------------------------
+Training - We got struck
+Episode 378 - Reward: 44.9, Steps: 168, Epsilon: 0.591, Best: 184.6, Average: 49.196
+-------------------------
+Episode 379 - Reward: 75.8, Steps: 201, Epsilon: 0.59, Best: 184.6, Average: 49.75
+-------------------------
+Episode 380 - Reward: 59.9, Steps: 92, Epsilon: 0.589, Best: 184.6, Average: 49.899
+-------------------------
+Episode 381 - Reward: 75.15, Steps: 142, Epsilon: 0.588, Best: 184.6, Average: 50.193
+-------------------------
+Training - We got struck
+Episode 382 - Reward: 60.9, Steps: 273, Epsilon: 0.587, Best: 184.6, Average: 50.255
+-------------------------
+Training - We got struck
+Episode 383 - Reward: 44.05, Steps: 147, Epsilon: 0.586, Best: 184.6, Average: 50.127
+-------------------------
+Episode 384 - Reward: 138.9, Steps: 222, Epsilon: 0.585, Best: 184.6, Average: 51.189
+-------------------------
+Episode 385 - Reward: 57.5, Steps: 162, Epsilon: 0.584, Best: 184.6, Average: 51.197
+-------------------------
+Training - We got struck
+Episode 386 - Reward: 46.35, Steps: 105, Epsilon: 0.583, Best: 184.6, Average: 51.076
+-------------------------
+Episode 387 - Reward: 122.9, Steps: 393, Epsilon: 0.581, Best: 184.6, Average: 51.839
+-------------------------
+Episode 388 - Reward: 55.85, Steps: 77, Epsilon: 0.58, Best: 184.6, Average: 51.842
+-------------------------
+Episode 389 - Reward: 58.9, Steps: 145, Epsilon: 0.58, Best: 184.6, Average: 51.989
+-------------------------
+Episode 390 - Reward: 70.65, Steps: 234, Epsilon: 0.578, Best: 184.6, Average: 52.151
+-------------------------
+Episode 391 - Reward: 19.45, Steps: 40, Epsilon: 0.578, Best: 184.6, Average: 51.758
+-------------------------
+Training - We got struck
+Episode 392 - Reward: 33.55, Steps: 105, Epsilon: 0.577, Best: 184.6, Average: 51.9
+-------------------------
+Training - We got struck
+Episode 393 - Reward: 61.1, Steps: 210, Epsilon: 0.576, Best: 184.6, Average: 51.947
+-------------------------
+Training - We got struck
+Episode 394 - Reward: 46.2, Steps: 126, Epsilon: 0.576, Best: 184.6, Average: 51.848
+-------------------------
+Episode 395 - Reward: 59.0, Steps: 164, Epsilon: 0.575, Best: 184.6, Average: 51.814
+-------------------------
+Training - We got struck
+Episode 396 - Reward: 44.55, Steps: 147, Epsilon: 0.574, Best: 184.6, Average: 51.693
+-------------------------
+Episode 397 - Reward: 162.0, Steps: 386, Epsilon: 0.572, Best: 184.6, Average: 52.738
+-------------------------
+Episode 398 - Reward: 159.75, Steps: 388, Epsilon: 0.569, Best: 184.6, Average: 53.702
+         New best average reward of 53.702!
+         Test - We got stuck
+         Test Episode 32 - Reward: -20.2, Steps: 42
+-------------------------
+Training - We got struck
+Episode 399 - Reward: 43.15, Steps: 168, Epsilon: 0.568, Best: 184.6, Average: 53.945
+         New best average reward of 53.945!
+         Test - We got stuck
+         Test Episode 33 - Reward: -18.3, Steps: 42
+-------------------------
+Episode 400 - Reward: 16.3, Steps: 50, Epsilon: 0.568, Best: 184.6, Average: 53.908
+-------------------------
+Training - We got struck
+Episode 401 - Reward: 32.5, Steps: 147, Epsilon: 0.567, Best: 184.6, Average: 53.599
+-------------------------
+Episode 402 - Reward: 20.2, Steps: 37, Epsilon: 0.567, Best: 184.6, Average: 53.617
+-------------------------
+Training - We got struck
+Episode 403 - Reward: 46.1, Steps: 105, Epsilon: 0.567, Best: 184.6, Average: 53.479
+-------------------------
+Training - We got struck
+Episode 404 - Reward: 43.6, Steps: 231, Epsilon: 0.565, Best: 184.6, Average: 53.33
+-------------------------
+Episode 405 - Reward: 56.0, Steps: 70, Epsilon: 0.565, Best: 184.6, Average: 53.319
+-------------------------
+Training - We got struck
+Episode 406 - Reward: 45.45, Steps: 126, Epsilon: 0.564, Best: 184.6, Average: 53.595
+-------------------------
+Episode 407 - Reward: 20.05, Steps: 30, Epsilon: 0.564, Best: 184.6, Average: 53.358
+-------------------------
+Episode 408 - Reward: 56.25, Steps: 100, Epsilon: 0.563, Best: 184.6, Average: 53.299
+-------------------------
+Episode 409 - Reward: 58.5, Steps: 139, Epsilon: 0.563, Best: 184.6, Average: 53.258
+-------------------------
+Episode 410 - Reward: 55.65, Steps: 66, Epsilon: 0.562, Best: 184.6, Average: 53.376
+-------------------------
+Episode 411 - Reward: 59.1, Steps: 134, Epsilon: 0.562, Best: 184.6, Average: 53.639
+-------------------------
+Episode 412 - Reward: 18.4, Steps: 38, Epsilon: 0.561, Best: 184.6, Average: 53.238
+-------------------------
+Training - We got struck
+Episode 413 - Reward: 59.2, Steps: 357, Epsilon: 0.559, Best: 184.6, Average: 53.263
+-------------------------
+Training - We got struck
+Episode 414 - Reward: 45.45, Steps: 126, Epsilon: 0.559, Best: 184.6, Average: 53.263
+-------------------------
+Training - We got struck
+Episode 415 - Reward: 34.55, Steps: 84, Epsilon: 0.558, Best: 184.6, Average: 53.042
+-------------------------
+Episode 416 - Reward: 18.2, Steps: 35, Epsilon: 0.558, Best: 184.6, Average: 53.027
+-------------------------
+Episode 417 - Reward: 56.95, Steps: 88, Epsilon: 0.558, Best: 184.6, Average: 53.131
+-------------------------
+Training - We got struck
+Episode 418 - Reward: 32.9, Steps: 126, Epsilon: 0.557, Best: 184.6, Average: 52.914
+-------------------------
+Episode 419 - Reward: 71.65, Steps: 147, Epsilon: 0.556, Best: 184.6, Average: 53.295
+-------------------------
+Training - We got struck
+Episode 420 - Reward: 42.15, Steps: 294, Epsilon: 0.555, Best: 184.6, Average: 53.03
+-------------------------
+Training - We got struck
+Episode 421 - Reward: 45.15, Steps: 168, Epsilon: 0.554, Best: 184.6, Average: 52.509
+-------------------------
+Episode 422 - Reward: 55.7, Steps: 83, Epsilon: 0.553, Best: 184.6, Average: 52.752
+-------------------------
+Episode 423 - Reward: 59.05, Steps: 148, Epsilon: 0.552, Best: 184.6, Average: 53.144
+-------------------------
+Training - We got struck
+Episode 424 - Reward: 63.15, Steps: 147, Epsilon: 0.552, Best: 184.6, Average: 53.185
+-------------------------
+Episode 425 - Reward: 58.5, Steps: 138, Epsilon: 0.551, Best: 184.6, Average: 53.574
+-------------------------
+Episode 426 - Reward: 72.1, Steps: 148, Epsilon: 0.55, Best: 184.6, Average: 53.299
+-------------------------
+Training - We got struck
+Episode 427 - Reward: 44.8, Steps: 147, Epsilon: 0.549, Best: 184.6, Average: 53.555
+-------------------------
+Training - We got struck
+Episode 428 - Reward: 42.5, Steps: 336, Epsilon: 0.547, Best: 184.6, Average: 53.642
+-------------------------
+Episode 429 - Reward: 17.4, Steps: 39, Epsilon: 0.547, Best: 184.6, Average: 53.639
+-------------------------
+Episode 430 - Reward: 20.1, Steps: 33, Epsilon: 0.547, Best: 184.6, Average: 53.389
+-------------------------
+Training - We got struck
+Episode 431 - Reward: 62.35, Steps: 189, Epsilon: 0.546, Best: 184.6, Average: 53.565
+-------------------------
+Episode 432 - Reward: 16.95, Steps: 43, Epsilon: 0.546, Best: 184.6, Average: 53.544
+-------------------------
+Episode 433 - Reward: 65.8, Steps: 247, Epsilon: 0.544, Best: 184.6, Average: 54.016
+         New best average reward of 54.016!
+         Test - We got stuck
+         Test Episode 34 - Reward: 33.3, Steps: 105
+-------------------------
+Episode 434 - Reward: 18.0, Steps: 38, Epsilon: 0.544, Best: 184.6, Average: 53.737
+-------------------------
+Episode 435 - Reward: 55.35, Steps: 102, Epsilon: 0.544, Best: 184.6, Average: 54.114
+         New best average reward of 54.114!
+         Test - We got stuck
+         Test Episode 35 - Reward: 18.65, Steps: 84
+-------------------------
+Episode 436 - Reward: 74.15, Steps: 275, Epsilon: 0.542, Best: 184.6, Average: 54.408
+         New best average reward of 54.408!
+         Test - We got stuck
+         Test Episode 36 - Reward: 18.5, Steps: 84
+-------------------------
+Training - We got struck
+Episode 437 - Reward: 62.35, Steps: 189, Epsilon: 0.541, Best: 184.6, Average: 54.61
+         New best average reward of 54.61!
+         Test - We got stuck
+         Test Episode 37 - Reward: 5.25, Steps: 84
+-------------------------
+Episode 438 - Reward: 73.9, Steps: 273, Epsilon: 0.54, Best: 184.6, Average: 54.899
+         New best average reward of 54.899!
+         Test - We got stuck
+         Test Episode 38 - Reward: 45.65, Steps: 168
+-------------------------
+Episode 439 - Reward: 55.9, Steps: 82, Epsilon: 0.539, Best: 184.6, Average: 54.883
+-------------------------
+Episode 440 - Reward: 127.25, Steps: 231, Epsilon: 0.538, Best: 184.6, Average: 55.383
+         New best average reward of 55.383!
+         Test - We got stuck
+         Test Episode 39 - Reward: 45.55, Steps: 147
+-------------------------
+Training - We got struck
+Episode 441 - Reward: 45.2, Steps: 126, Epsilon: 0.537, Best: 184.6, Average: 55.663
+         New best average reward of 55.663!
+         Test - We got stuck
+         Test Episode 40 - Reward: 33.65, Steps: 126
+-------------------------
+Training - We got struck
+Episode 442 - Reward: 46.35, Steps: 105, Epsilon: 0.537, Best: 184.6, Average: 55.377
+-------------------------
+Episode 443 - Reward: 55.15, Steps: 75, Epsilon: 0.537, Best: 184.6, Average: 55.259
+-------------------------
+Episode 444 - Reward: 56.3, Steps: 71, Epsilon: 0.536, Best: 184.6, Average: 55.494
+-------------------------
+Training - We got struck
+Episode 445 - Reward: 45.7, Steps: 126, Epsilon: 0.535, Best: 184.6, Average: 55.768
+         New best average reward of 55.768!
+         Test - We got stuck
+         Test Episode 41 - Reward: 45.95, Steps: 126
+-------------------------
+Episode 446 - Reward: 71.5, Steps: 192, Epsilon: 0.534, Best: 184.6, Average: 56.298
+         New best average reward of 56.298!
+         Test - We got stuck
+         Test Episode 42 - Reward: 18.3, Steps: 84
+-------------------------
+Episode 447 - Reward: 75.45, Steps: 181, Epsilon: 0.534, Best: 184.6, Average: 56.039
+-------------------------
+Episode 448 - Reward: 127.35, Steps: 199, Epsilon: 0.532, Best: 184.6, Average: 57.124
+         New best average reward of 57.124!
+         Test - We got stuck
+         Test Episode 43 - Reward: 17.8, Steps: 84
+-------------------------
+Episode 449 - Reward: 56.4, Steps: 112, Epsilon: 0.532, Best: 184.6, Average: 57.5
+         New best average reward of 57.5!
+         Test - We got stuck
+         Test Episode 44 - Reward: 18.05, Steps: 84
+-------------------------
+Training - We got struck
+Episode 450 - Reward: 60.9, Steps: 273, Epsilon: 0.53, Best: 184.6, Average: 57.491
+-------------------------
+Episode 451 - Reward: 148.4, Steps: 359, Epsilon: 0.529, Best: 184.6, Average: 58.523
+         New best average reward of 58.523!
+         Test - We got stuck
+         Test Episode 45 - Reward: 17.8, Steps: 84
+-------------------------
+Episode 452 - Reward: 57.15, Steps: 72, Epsilon: 0.528, Best: 184.6, Average: 58.528
+         New best average reward of 58.528!
+         Test - We got stuck
+         Test Episode 46 - Reward: 17.8, Steps: 84
+-------------------------
+Episode 453 - Reward: 59.1, Steps: 158, Epsilon: 0.527, Best: 184.6, Average: 58.502
+-------------------------
+Training - We got struck
+Episode 454 - Reward: 39.95, Steps: 378, Epsilon: 0.525, Best: 184.6, Average: 58.717
+         New best average reward of 58.717!
+         Test - We got stuck
+         Test Episode 47 - Reward: 45.55, Steps: 147
+-------------------------
+Episode 455 - Reward: 158.8, Steps: 480, Epsilon: 0.523, Best: 184.6, Average: 59.852
+         New best average reward of 59.852!
+         Test Episode 48 - Reward: 128.6, Steps: 228
+-------------------------
+Episode 456 - Reward: 16.3, Steps: 44, Epsilon: 0.523, Best: 184.6, Average: 59.548
+-------------------------
+Training - We got struck
+Episode 457 - Reward: 45.8, Steps: 147, Epsilon: 0.522, Best: 184.6, Average: 59.56
+-------------------------
+Episode 458 - Reward: 17.7, Steps: 35, Epsilon: 0.522, Best: 184.6, Average: 58.11
+-------------------------
+Training - We got struck
+Episode 459 - Reward: 33.55, Steps: 105, Epsilon: 0.521, Best: 184.6, Average: 57.874
+-------------------------
+Episode 460 - Reward: 19.55, Steps: 28, Epsilon: 0.521, Best: 184.6, Average: 57.612
+-------------------------
+Training - We got struck
+Episode 461 - Reward: 62.1, Steps: 210, Epsilon: 0.52, Best: 184.6, Average: 57.653
+-------------------------
+Training - We got struck
+Episode 462 - Reward: 32.35, Steps: 168, Epsilon: 0.519, Best: 184.6, Average: 57.233
+-------------------------
+Episode 463 - Reward: 183.15, Steps: 232, Epsilon: 0.518, Best: 184.6, Average: 58.607
+-------------------------
+Training - We got struck
+Episode 464 - Reward: 41.5, Steps: 210, Epsilon: 0.517, Best: 184.6, Average: 58.328
+-------------------------
+Training - We got struck
+Episode 465 - Reward: 43.05, Steps: 273, Epsilon: 0.516, Best: 184.6, Average: 58.188
+-------------------------
+Episode 466 - Reward: 56.9, Steps: 91, Epsilon: 0.515, Best: 184.6, Average: 58.204
+-------------------------
+Training - We got struck
+Episode 467 - Reward: 32.35, Steps: 168, Epsilon: 0.514, Best: 184.6, Average: 57.253
+-------------------------
+Training - We got struck
+Episode 468 - Reward: 62.2, Steps: 231, Epsilon: 0.513, Best: 184.6, Average: 57.186
+-------------------------
+Episode 469 - Reward: 53.55, Steps: 146, Epsilon: 0.512, Best: 184.6, Average: 57.148
+-------------------------
+Episode 470 - Reward: 58.45, Steps: 85, Epsilon: 0.512, Best: 184.6, Average: 57.287
+-------------------------
+Episode 471 - Reward: 19.3, Steps: 35, Epsilon: 0.512, Best: 184.6, Average: 56.926
+-------------------------
+Episode 472 - Reward: 72.0, Steps: 394, Epsilon: 0.51, Best: 184.6, Average: 57.046
+-------------------------
+Episode 473 - Reward: 58.2, Steps: 151, Epsilon: 0.509, Best: 184.6, Average: 57.008
+-------------------------
+Training - We got struck
+Episode 474 - Reward: 61.8, Steps: 252, Epsilon: 0.508, Best: 184.6, Average: 57.005
+-------------------------
+Episode 475 - Reward: 58.25, Steps: 139, Epsilon: 0.507, Best: 184.6, Average: 57.252
+-------------------------
+Episode 476 - Reward: 56.3, Steps: 103, Epsilon: 0.507, Best: 184.6, Average: 57.254
+-------------------------
+Episode 477 - Reward: 56.65, Steps: 87, Epsilon: 0.506, Best: 184.6, Average: 57.648
+-------------------------
+Training - We got struck
+Episode 478 - Reward: 45.0, Steps: 189, Epsilon: 0.505, Best: 184.6, Average: 57.649
+-------------------------
+Episode 479 - Reward: 54.1, Steps: 95, Epsilon: 0.505, Best: 184.6, Average: 57.432
+-------------------------
+Training - We got struck
+Episode 480 - Reward: 63.5, Steps: 168, Epsilon: 0.504, Best: 184.6, Average: 57.468
+-------------------------
+Episode 481 - Reward: 56.15, Steps: 81, Epsilon: 0.504, Best: 184.6, Average: 57.278
+-------------------------
+Training - We got struck
+Episode 482 - Reward: 62.35, Steps: 189, Epsilon: 0.503, Best: 184.6, Average: 57.293
+-------------------------
+Training - We got struck
+Episode 483 - Reward: 45.05, Steps: 147, Epsilon: 0.502, Best: 184.6, Average: 57.303
+-------------------------
+Episode 484 - Reward: 54.9, Steps: 91, Epsilon: 0.501, Best: 184.6, Average: 56.463
+-------------------------
+Episode 485 - Reward: 56.5, Steps: 98, Epsilon: 0.501, Best: 184.6, Average: 56.453
+-------------------------
+Training - We got struck
+Episode 486 - Reward: 45.45, Steps: 126, Epsilon: 0.5, Best: 184.6, Average: 56.444
+-------------------------
+Episode 487 - Reward: 97.4, Steps: 244, Epsilon: 0.499, Best: 184.6, Average: 56.189
+-------------------------
+Training - We got struck
+Episode 488 - Reward: 45.05, Steps: 147, Epsilon: 0.498, Best: 184.6, Average: 56.081
+-------------------------
+Training - We got struck
+Episode 489 - Reward: 45.05, Steps: 147, Epsilon: 0.498, Best: 184.6, Average: 55.942
+-------------------------
+Episode 490 - Reward: 18.1, Steps: 37, Epsilon: 0.498, Best: 184.6, Average: 55.417
+-------------------------
+Episode 491 - Reward: 59.1, Steps: 158, Epsilon: 0.497, Best: 184.6, Average: 55.813
+-------------------------
+Episode 492 - Reward: 59.9, Steps: 92, Epsilon: 0.496, Best: 184.6, Average: 56.077
+-------------------------
+Episode 493 - Reward: 70.05, Steps: 196, Epsilon: 0.495, Best: 184.6, Average: 56.166
+-------------------------
+Episode 494 - Reward: 18.15, Steps: 37, Epsilon: 0.495, Best: 184.6, Average: 55.886
+-------------------------
+Episode 495 - Reward: 72.55, Steps: 171, Epsilon: 0.494, Best: 184.6, Average: 56.021
+-------------------------
+Episode 496 - Reward: 17.45, Steps: 36, Epsilon: 0.494, Best: 184.6, Average: 55.75
+-------------------------
+Training - We got struck
+Episode 497 - Reward: 45.8, Steps: 147, Epsilon: 0.493, Best: 184.6, Average: 54.588
+-------------------------
+Training - We got struck
+Episode 498 - Reward: 61.6, Steps: 210, Epsilon: 0.492, Best: 184.6, Average: 53.607
+-------------------------
+Training - We got struck
+Episode 499 - Reward: 61.85, Steps: 189, Epsilon: 0.492, Best: 184.6, Average: 53.794
+-------------------------
+Episode 500 - Reward: 19.15, Steps: 33, Epsilon: 0.491, Best: 184.6, Average: 53.822
+-------------------------
+Episode 501 - Reward: 75.7, Steps: 207, Epsilon: 0.49, Best: 184.6, Average: 54.254
+-------------------------
+Training - We got struck
+Episode 502 - Reward: 60.95, Steps: 231, Epsilon: 0.489, Best: 184.6, Average: 54.662
+-------------------------
+Training - We got struck
+Episode 503 - Reward: 42.7, Steps: 252, Epsilon: 0.488, Best: 184.6, Average: 54.628
+-------------------------
+Episode 504 - Reward: 73.6, Steps: 185, Epsilon: 0.487, Best: 184.6, Average: 54.928
+-------------------------
+Episode 505 - Reward: 58.3, Steps: 149, Epsilon: 0.486, Best: 184.6, Average: 54.951
+-------------------------
+Training - We got struck
+Episode 506 - Reward: 62.6, Steps: 210, Epsilon: 0.485, Best: 184.6, Average: 55.122
+-------------------------
+Episode 507 - Reward: 69.25, Steps: 131, Epsilon: 0.485, Best: 184.6, Average: 55.614
+-------------------------
+Training - We got struck
+Episode 508 - Reward: 44.9, Steps: 168, Epsilon: 0.484, Best: 184.6, Average: 55.501
+-------------------------
+Training - We got struck
+Episode 509 - Reward: 58.45, Steps: 357, Epsilon: 0.482, Best: 184.6, Average: 55.5
+-------------------------
+Training - We got struck
+Episode 510 - Reward: 32.8, Steps: 105, Epsilon: 0.482, Best: 184.6, Average: 55.272
+-------------------------
+Episode 511 - Reward: 56.15, Steps: 78, Epsilon: 0.481, Best: 184.6, Average: 55.242
+-------------------------
+Training - We got struck
+Episode 512 - Reward: 62.2, Steps: 231, Epsilon: 0.48, Best: 184.6, Average: 55.68
+-------------------------
+Training - We got struck
+Episode 513 - Reward: 44.7, Steps: 126, Epsilon: 0.48, Best: 184.6, Average: 55.535
+-------------------------
+Episode 514 - Reward: 99.2, Steps: 221, Epsilon: 0.479, Best: 184.6, Average: 56.073
+-------------------------
+Episode 515 - Reward: 58.15, Steps: 167, Epsilon: 0.478, Best: 184.6, Average: 56.309
+-------------------------
+Training - We got struck
+Episode 516 - Reward: 33.05, Steps: 105, Epsilon: 0.478, Best: 184.6, Average: 56.457
+-------------------------
+Episode 517 - Reward: 56.5, Steps: 88, Epsilon: 0.477, Best: 184.6, Average: 56.453
+-------------------------
+Training - We got struck
+Episode 518 - Reward: 46.45, Steps: 126, Epsilon: 0.477, Best: 184.6, Average: 56.588
+-------------------------
+Episode 519 - Reward: 97.65, Steps: 206, Epsilon: 0.476, Best: 184.6, Average: 56.848
+-------------------------
+Training - We got struck
+Episode 520 - Reward: 32.8, Steps: 105, Epsilon: 0.475, Best: 184.6, Average: 56.755
+-------------------------
+Episode 521 - Reward: 58.95, Steps: 154, Epsilon: 0.474, Best: 184.6, Average: 56.893
+-------------------------
+Episode 522 - Reward: 58.9, Steps: 140, Epsilon: 0.474, Best: 184.6, Average: 56.925
+-------------------------
+Training - We got struck
+Episode 523 - Reward: 43.45, Steps: 252, Epsilon: 0.473, Best: 184.6, Average: 56.769
+-------------------------
+Episode 524 - Reward: 56.75, Steps: 101, Epsilon: 0.472, Best: 184.6, Average: 56.705
+-------------------------
+Episode 525 - Reward: 56.0, Steps: 80, Epsilon: 0.472, Best: 184.6, Average: 56.68
+-------------------------
+Episode 526 - Reward: 101.45, Steps: 159, Epsilon: 0.471, Best: 184.6, Average: 56.973
+-------------------------
+Training - We got struck
+Episode 527 - Reward: 45.45, Steps: 126, Epsilon: 0.47, Best: 184.6, Average: 56.98
+-------------------------
+Training - We got struck
+Episode 528 - Reward: 45.15, Steps: 168, Epsilon: 0.47, Best: 184.6, Average: 57.006
+-------------------------
+Episode 529 - Reward: 58.2, Steps: 151, Epsilon: 0.469, Best: 184.6, Average: 57.414
+-------------------------
+Episode 530 - Reward: 19.3, Steps: 35, Epsilon: 0.469, Best: 184.6, Average: 57.406
+-------------------------
+Training - We got struck
+Episode 531 - Reward: 33.55, Steps: 105, Epsilon: 0.468, Best: 184.6, Average: 57.118
+-------------------------
+Episode 532 - Reward: 58.75, Steps: 160, Epsilon: 0.468, Best: 184.6, Average: 57.536
+-------------------------
+Episode 533 - Reward: 18.0, Steps: 41, Epsilon: 0.467, Best: 184.6, Average: 57.058
+-------------------------
+Episode 534 - Reward: 69.75, Steps: 191, Epsilon: 0.466, Best: 184.6, Average: 57.576
+-------------------------
+Episode 535 - Reward: 76.3, Steps: 177, Epsilon: 0.466, Best: 184.6, Average: 57.785
+-------------------------
+Episode 536 - Reward: 17.75, Steps: 36, Epsilon: 0.465, Best: 184.6, Average: 57.221
+-------------------------
+Episode 537 - Reward: 58.6, Steps: 85, Epsilon: 0.465, Best: 184.6, Average: 57.184
+-------------------------
+Training - We got struck
+Episode 538 - Reward: 43.2, Steps: 252, Epsilon: 0.464, Best: 184.6, Average: 56.877
+-------------------------
+Episode 539 - Reward: 58.0, Steps: 95, Epsilon: 0.464, Best: 184.6, Average: 56.898
+-------------------------
+Episode 540 - Reward: 124.95, Steps: 254, Epsilon: 0.462, Best: 184.6, Average: 56.875
+-------------------------
+Training - We got struck
+Episode 541 - Reward: 32.55, Steps: 105, Epsilon: 0.462, Best: 184.6, Average: 56.748
+-------------------------
+Episode 542 - Reward: 99.6, Steps: 200, Epsilon: 0.461, Best: 184.6, Average: 57.281
+-------------------------
+Training - We got struck
+Episode 543 - Reward: 43.8, Steps: 147, Epsilon: 0.46, Best: 184.6, Average: 57.167
+-------------------------
+Episode 544 - Reward: 54.15, Steps: 107, Epsilon: 0.46, Best: 184.6, Average: 57.146
+-------------------------
+Training - We got struck
+Episode 545 - Reward: 32.4, Steps: 126, Epsilon: 0.459, Best: 184.6, Average: 57.013
+-------------------------
+Episode 546 - Reward: 17.85, Steps: 45, Epsilon: 0.459, Best: 184.6, Average: 56.476
+-------------------------
+Episode 547 - Reward: 18.1, Steps: 41, Epsilon: 0.459, Best: 184.6, Average: 55.903
+-------------------------
+Episode 548 - Reward: 68.7, Steps: 182, Epsilon: 0.458, Best: 184.6, Average: 55.316
+-------------------------
+Episode 549 - Reward: 19.2, Steps: 37, Epsilon: 0.458, Best: 184.6, Average: 54.944
+-------------------------
+Training - We got struck
+Episode 550 - Reward: 32.4, Steps: 126, Epsilon: 0.457, Best: 184.6, Average: 54.659
+-------------------------
+Episode 551 - Reward: 19.4, Steps: 38, Epsilon: 0.457, Best: 184.6, Average: 53.369
+-------------------------
+Episode 552 - Reward: 56.25, Steps: 117, Epsilon: 0.457, Best: 184.6, Average: 53.36
+-------------------------
+Training - We got struck
+Episode 553 - Reward: 45.3, Steps: 147, Epsilon: 0.456, Best: 184.6, Average: 53.222
+-------------------------
+Training - We got struck
+Episode 554 - Reward: 44.75, Steps: 210, Epsilon: 0.455, Best: 184.6, Average: 53.27
+-------------------------
+Episode 555 - Reward: 17.9, Steps: 37, Epsilon: 0.455, Best: 184.6, Average: 51.861
+-------------------------
+Episode 556 - Reward: 54.05, Steps: 166, Epsilon: 0.454, Best: 184.6, Average: 52.239
+-------------------------
+Training - We got struck
+Episode 557 - Reward: 32.65, Steps: 126, Epsilon: 0.454, Best: 184.6, Average: 52.107
+-------------------------
+Episode 558 - Reward: 19.7, Steps: 38, Epsilon: 0.453, Best: 184.6, Average: 52.127
+-------------------------
+Episode 559 - Reward: 76.4, Steps: 171, Epsilon: 0.453, Best: 184.6, Average: 52.556
+-------------------------
+Episode 560 - Reward: 99.95, Steps: 155, Epsilon: 0.452, Best: 184.6, Average: 53.36
+-------------------------
+Episode 561 - Reward: 73.7, Steps: 285, Epsilon: 0.451, Best: 184.6, Average: 53.476
+-------------------------
+Episode 562 - Reward: 56.3, Steps: 73, Epsilon: 0.45, Best: 184.6, Average: 53.715
+-------------------------
+Training - We got struck
+Episode 563 - Reward: 62.75, Steps: 168, Epsilon: 0.45, Best: 184.6, Average: 52.511
+-------------------------
+Training - We got struck
+Episode 564 - Reward: 59.2, Steps: 357, Epsilon: 0.448, Best: 184.6, Average: 52.688
+-------------------------
+Training - We got struck
+Episode 565 - Reward: 41.15, Steps: 315, Epsilon: 0.447, Best: 184.6, Average: 52.669
+-------------------------
+Training - We got struck
+Episode 566 - Reward: 62.1, Steps: 210, Epsilon: 0.446, Best: 184.6, Average: 52.721
+-------------------------
+Training - We got struck
+Episode 567 - Reward: 44.8, Steps: 147, Epsilon: 0.445, Best: 184.6, Average: 52.846
+-------------------------
+Episode 568 - Reward: 99.7, Steps: 144, Epsilon: 0.445, Best: 184.6, Average: 53.221
+-------------------------
+Episode 569 - Reward: 55.7, Steps: 96, Epsilon: 0.444, Best: 184.6, Average: 53.242
+-------------------------
+Episode 570 - Reward: 18.45, Steps: 40, Epsilon: 0.444, Best: 184.6, Average: 52.842
+-------------------------
+Episode 571 - Reward: 69.65, Steps: 201, Epsilon: 0.443, Best: 184.6, Average: 53.346
+-------------------------
+Episode 572 - Reward: 68.85, Steps: 205, Epsilon: 0.442, Best: 184.6, Average: 53.314
+-------------------------
+Training - We got struck
+Episode 573 - Reward: 32.55, Steps: 105, Epsilon: 0.442, Best: 184.6, Average: 53.058
+-------------------------
+Episode 574 - Reward: 53.4, Steps: 122, Epsilon: 0.441, Best: 184.6, Average: 52.974
+-------------------------
+Episode 575 - Reward: 70.95, Steps: 200, Epsilon: 0.44, Best: 184.6, Average: 53.101
+-------------------------
+Episode 576 - Reward: 16.6, Steps: 35, Epsilon: 0.44, Best: 184.6, Average: 52.704
+-------------------------
+Training - We got struck
+Episode 577 - Reward: 33.4, Steps: 126, Epsilon: 0.44, Best: 184.6, Average: 52.471
+-------------------------
+Training - We got struck
+Episode 578 - Reward: 45.05, Steps: 147, Epsilon: 0.439, Best: 184.6, Average: 52.472
+-------------------------
+Episode 579 - Reward: 124.7, Steps: 318, Epsilon: 0.438, Best: 184.6, Average: 53.178
+-------------------------
+Training - We got struck
+Episode 580 - Reward: 61.6, Steps: 189, Epsilon: 0.437, Best: 184.6, Average: 53.159
+-------------------------
+Training - We got struck
+Episode 581 - Reward: 33.8, Steps: 105, Epsilon: 0.436, Best: 184.6, Average: 52.935
+-------------------------
+Episode 582 - Reward: 18.65, Steps: 37, Epsilon: 0.436, Best: 184.6, Average: 52.498
+-------------------------
+Episode 583 - Reward: 18.1, Steps: 35, Epsilon: 0.436, Best: 184.6, Average: 52.229
+-------------------------
+Training - We got struck
+Episode 584 - Reward: 61.6, Steps: 210, Epsilon: 0.435, Best: 184.6, Average: 52.296
+-------------------------
+Episode 585 - Reward: 95.7, Steps: 338, Epsilon: 0.434, Best: 184.6, Average: 52.688
+-------------------------
+Episode 586 - Reward: 57.45, Steps: 179, Epsilon: 0.433, Best: 184.6, Average: 52.808
+-------------------------
+Episode 587 - Reward: 57.45, Steps: 146, Epsilon: 0.432, Best: 184.6, Average: 52.408
+-------------------------
+Episode 588 - Reward: 19.9, Steps: 33, Epsilon: 0.432, Best: 184.6, Average: 52.157
+-------------------------
+Episode 589 - Reward: 98.2, Steps: 223, Epsilon: 0.431, Best: 184.6, Average: 52.688
+-------------------------
+Episode 590 - Reward: 55.0, Steps: 107, Epsilon: 0.431, Best: 184.6, Average: 53.057
+-------------------------
+Episode 591 - Reward: 98.25, Steps: 230, Epsilon: 0.43, Best: 184.6, Average: 53.449
+-------------------------
+Training - We got struck
+Episode 592 - Reward: 44.55, Steps: 147, Epsilon: 0.429, Best: 184.6, Average: 53.295
+-------------------------
+Training - We got struck
+Episode 593 - Reward: 45.8, Steps: 147, Epsilon: 0.429, Best: 184.6, Average: 53.053
+-------------------------
+Training - We got struck
+Episode 594 - Reward: 62.9, Steps: 147, Epsilon: 0.428, Best: 184.6, Average: 53.5
+-------------------------
+Training - We got struck
+Episode 595 - Reward: 46.1, Steps: 105, Epsilon: 0.428, Best: 184.6, Average: 53.236
+-------------------------
+Episode 596 - Reward: 72.15, Steps: 129, Epsilon: 0.427, Best: 184.6, Average: 53.783
+-------------------------
+Episode 597 - Reward: 56.0, Steps: 69, Epsilon: 0.427, Best: 184.6, Average: 53.885
+-------------------------
+Training - We got struck
+Episode 598 - Reward: 44.25, Steps: 210, Epsilon: 0.426, Best: 184.6, Average: 53.711
+-------------------------
+Episode 599 - Reward: 96.55, Steps: 263, Epsilon: 0.425, Best: 184.6, Average: 54.058
+-------------------------
+Training - We got struck
+Episode 600 - Reward: 44.0, Steps: 210, Epsilon: 0.424, Best: 184.6, Average: 54.307
+-------------------------
+Episode 601 - Reward: 57.3, Steps: 88, Epsilon: 0.424, Best: 184.6, Average: 54.123
+-------------------------
+Episode 602 - Reward: 54.4, Steps: 114, Epsilon: 0.423, Best: 184.6, Average: 54.057
+-------------------------
+Training - We got struck
+Episode 603 - Reward: 62.6, Steps: 189, Epsilon: 0.422, Best: 184.6, Average: 54.256
+-------------------------
+Episode 604 - Reward: 128.25, Steps: 192, Epsilon: 0.422, Best: 184.6, Average: 54.803
+-------------------------
+Training - We got struck
+Episode 605 - Reward: 59.15, Steps: 399, Epsilon: 0.42, Best: 184.6, Average: 54.811
+-------------------------
+Episode 606 - Reward: 57.05, Steps: 145, Epsilon: 0.419, Best: 184.6, Average: 54.756
+-------------------------
+Episode 607 - Reward: 19.2, Steps: 35, Epsilon: 0.419, Best: 184.6, Average: 54.255
+-------------------------
+Episode 608 - Reward: 128.05, Steps: 267, Epsilon: 0.418, Best: 184.6, Average: 55.087
+-------------------------
+Episode 609 - Reward: 18.25, Steps: 33, Epsilon: 0.418, Best: 184.6, Average: 54.685
+-------------------------
+Episode 610 - Reward: 55.9, Steps: 83, Epsilon: 0.418, Best: 184.6, Average: 54.916
+-------------------------
+Training - We got struck
+Episode 611 - Reward: 62.1, Steps: 210, Epsilon: 0.417, Best: 184.6, Average: 54.975
+-------------------------
+Episode 612 - Reward: 124.65, Steps: 265, Epsilon: 0.416, Best: 184.6, Average: 55.6
+-------------------------
+Episode 613 - Reward: 70.8, Steps: 143, Epsilon: 0.415, Best: 184.6, Average: 55.861
+-------------------------
+Episode 614 - Reward: 96.0, Steps: 338, Epsilon: 0.414, Best: 184.6, Average: 55.829
+-------------------------
+Episode 615 - Reward: 71.5, Steps: 158, Epsilon: 0.413, Best: 184.6, Average: 55.962
+-------------------------
+Episode 616 - Reward: 72.95, Steps: 155, Epsilon: 0.412, Best: 184.6, Average: 56.361
+-------------------------
+Episode 617 - Reward: 99.3, Steps: 161, Epsilon: 0.412, Best: 184.6, Average: 56.789
+-------------------------
+Episode 618 - Reward: 56.85, Steps: 98, Epsilon: 0.411, Best: 184.6, Average: 56.893
+-------------------------
+Episode 619 - Reward: 109.05, Steps: 172, Epsilon: 0.411, Best: 184.6, Average: 57.007
+-------------------------
+Training - We got struck
+Episode 620 - Reward: 44.5, Steps: 189, Epsilon: 0.41, Best: 184.6, Average: 57.124
+-------------------------
+Episode 621 - Reward: 76.8, Steps: 151, Epsilon: 0.409, Best: 184.6, Average: 57.303
+-------------------------
+Episode 622 - Reward: 70.95, Steps: 161, Epsilon: 0.409, Best: 184.6, Average: 57.423
+-------------------------
+Training - We got struck
+Episode 623 - Reward: 62.5, Steps: 168, Epsilon: 0.408, Best: 184.6, Average: 57.614
+-------------------------
+Training - We got struck
+Episode 624 - Reward: 33.3, Steps: 105, Epsilon: 0.408, Best: 184.6, Average: 57.379
+-------------------------
+Episode 625 - Reward: 72.2, Steps: 208, Epsilon: 0.407, Best: 184.6, Average: 57.541
+-------------------------
+Episode 626 - Reward: 94.55, Steps: 411, Epsilon: 0.405, Best: 184.6, Average: 57.472
+-------------------------
+Training - We got struck
+Episode 627 - Reward: 38.05, Steps: 147, Epsilon: 0.405, Best: 184.6, Average: 57.398
+-------------------------
+Episode 628 - Reward: 57.15, Steps: 102, Epsilon: 0.404, Best: 184.6, Average: 57.518
+-------------------------
+Episode 629 - Reward: 20.0, Steps: 30, Epsilon: 0.404, Best: 184.6, Average: 57.136
+-------------------------
+Episode 630 - Reward: 138.35, Steps: 228, Epsilon: 0.403, Best: 184.6, Average: 58.327
+-------------------------
+Training - We got struck
+Episode 631 - Reward: 45.05, Steps: 147, Epsilon: 0.403, Best: 184.6, Average: 58.442
+-------------------------
+Episode 632 - Reward: 57.4, Steps: 87, Epsilon: 0.402, Best: 184.6, Average: 58.428
+-------------------------
+Episode 633 - Reward: 57.0, Steps: 72, Epsilon: 0.402, Best: 184.6, Average: 58.818
+-------------------------
+Episode 634 - Reward: 137.9, Steps: 199, Epsilon: 0.401, Best: 184.6, Average: 59.5
+-------------------------
+Episode 635 - Reward: 128.2, Steps: 250, Epsilon: 0.4, Best: 184.6, Average: 60.019
+         New best average reward of 60.019!
+         Test - We got stuck
+         Test Episode 49 - Reward: 62.45, Steps: 231
+-------------------------
+Episode 636 - Reward: 57.9, Steps: 76, Epsilon: 0.4, Best: 184.6, Average: 60.42
+         New best average reward of 60.42!
+         Test Episode 50 - Reward: 58.95, Steps: 94
+-------------------------
+Episode 637 - Reward: 57.3, Steps: 89, Epsilon: 0.4, Best: 184.6, Average: 60.407
+-------------------------
+Training - We got struck
+Episode 638 - Reward: 44.25, Steps: 210, Epsilon: 0.399, Best: 184.6, Average: 60.418
+-------------------------
+Training - We got struck
+Episode 639 - Reward: 62.75, Steps: 168, Epsilon: 0.398, Best: 184.6, Average: 60.465
+         New best average reward of 60.465!
+         Test Episode 51 - Reward: 56.85, Steps: 93
+-------------------------
+Episode 640 - Reward: 99.65, Steps: 155, Epsilon: 0.398, Best: 184.6, Average: 60.212
+-------------------------
+Episode 641 - Reward: 56.65, Steps: 106, Epsilon: 0.397, Best: 184.6, Average: 60.453
+-------------------------
+Episode 642 - Reward: 57.4, Steps: 89, Epsilon: 0.397, Best: 184.6, Average: 60.031
+-------------------------
+Episode 643 - Reward: 67.5, Steps: 156, Epsilon: 0.396, Best: 184.6, Average: 60.268
+-------------------------
+Episode 644 - Reward: 19.0, Steps: 32, Epsilon: 0.396, Best: 184.6, Average: 59.917
+-------------------------
+Episode 645 - Reward: 56.95, Steps: 98, Epsilon: 0.396, Best: 184.6, Average: 60.162
+-------------------------
+Training - We got struck
+Episode 646 - Reward: 45.05, Steps: 147, Epsilon: 0.395, Best: 184.6, Average: 60.434
+-------------------------
+Episode 647 - Reward: 56.25, Steps: 65, Epsilon: 0.395, Best: 184.6, Average: 60.816
+         New best average reward of 60.816!
+         Test - We got stuck
+         Test Episode 52 - Reward: 35.8, Steps: 147
+-------------------------
+Episode 648 - Reward: 55.65, Steps: 69, Epsilon: 0.395, Best: 184.6, Average: 60.685
+-------------------------
+Training - We got struck
+Episode 649 - Reward: 32.75, Steps: 147, Epsilon: 0.394, Best: 184.6, Average: 60.821
+         New best average reward of 60.821!
+         Test - We got stuck
+         Test Episode 53 - Reward: 19.15, Steps: 105
+-------------------------
+Episode 650 - Reward: 56.55, Steps: 78, Epsilon: 0.394, Best: 184.6, Average: 61.062
+         New best average reward of 61.062!
+         Test Episode 54 - Reward: 57.05, Steps: 100
+-------------------------
+Episode 651 - Reward: 19.8, Steps: 31, Epsilon: 0.394, Best: 184.6, Average: 61.066
+         New best average reward of 61.066!
+         Test Episode 55 - Reward: 55.85, Steps: 102
+-------------------------
+Episode 652 - Reward: 55.95, Steps: 73, Epsilon: 0.393, Best: 184.6, Average: 61.063
+-------------------------
+Episode 653 - Reward: 58.75, Steps: 137, Epsilon: 0.393, Best: 184.6, Average: 61.198
+         New best average reward of 61.198!
+         Test Episode 56 - Reward: 58.35, Steps: 84
+-------------------------
+Episode 654 - Reward: 181.3, Steps: 257, Epsilon: 0.392, Best: 184.6, Average: 62.563
+         New best average reward of 62.563!
+         Test - We got stuck
+         Test Episode 57 - Reward: 34.55, Steps: 84
+-------------------------
+Training - We got struck
+Episode 655 - Reward: 32.4, Steps: 126, Epsilon: 0.391, Best: 184.6, Average: 62.708
+         New best average reward of 62.708!
+         Test Episode 58 - Reward: 56.95, Steps: 99
+-------------------------
+Training - We got struck
+Episode 656 - Reward: 45.95, Steps: 126, Epsilon: 0.391, Best: 184.6, Average: 62.627
+-------------------------
+Episode 657 - Reward: 52.65, Steps: 146, Epsilon: 0.39, Best: 184.6, Average: 62.827
+         New best average reward of 62.827!
+         Test Episode 59 - Reward: 75.95, Steps: 183
+-------------------------
+Training - We got struck
+Episode 658 - Reward: 33.3, Steps: 105, Epsilon: 0.39, Best: 184.6, Average: 62.963
+         New best average reward of 62.963!
+         Test - We got stuck
+         Test Episode 60 - Reward: 64.4, Steps: 147
+-------------------------
+Training - We got struck
+Episode 659 - Reward: 44.5, Steps: 210, Epsilon: 0.389, Best: 184.6, Average: 62.644
+-------------------------
+Episode 660 - Reward: 55.6, Steps: 95, Epsilon: 0.389, Best: 184.6, Average: 62.201
+-------------------------
+Training - We got struck
+Episode 661 - Reward: 62.1, Steps: 210, Epsilon: 0.388, Best: 184.6, Average: 62.085
+-------------------------
+Episode 662 - Reward: 67.7, Steps: 212, Epsilon: 0.387, Best: 184.6, Average: 62.199
+-------------------------
+Episode 663 - Reward: 18.0, Steps: 35, Epsilon: 0.387, Best: 184.6, Average: 61.751
+-------------------------
+Episode 664 - Reward: 128.0, Steps: 244, Epsilon: 0.386, Best: 184.6, Average: 62.439
+-------------------------
+Episode 665 - Reward: 57.75, Steps: 96, Epsilon: 0.386, Best: 184.6, Average: 62.605
+-------------------------
+Training - We got struck
+Episode 666 - Reward: 45.3, Steps: 147, Epsilon: 0.385, Best: 184.6, Average: 62.437
+-------------------------
+Training - We got struck
+Episode 667 - Reward: 31.7, Steps: 189, Epsilon: 0.384, Best: 184.6, Average: 62.306
+-------------------------
+Training - We got struck
+Episode 668 - Reward: 33.3, Steps: 105, Epsilon: 0.384, Best: 184.6, Average: 61.642
+-------------------------
+Training - We got struck
+Episode 669 - Reward: 45.55, Steps: 147, Epsilon: 0.384, Best: 184.6, Average: 61.541
+-------------------------
+Episode 670 - Reward: 58.55, Steps: 92, Epsilon: 0.383, Best: 184.6, Average: 61.942
+-------------------------
+Training - We got struck
+Episode 671 - Reward: 44.9, Steps: 168, Epsilon: 0.383, Best: 184.6, Average: 61.694
+-------------------------
+Episode 672 - Reward: 56.65, Steps: 217, Epsilon: 0.382, Best: 184.6, Average: 61.572
+-------------------------
+Episode 673 - Reward: 98.6, Steps: 193, Epsilon: 0.381, Best: 184.6, Average: 62.233
+-------------------------
+Episode 674 - Reward: 140.0, Steps: 193, Epsilon: 0.38, Best: 184.6, Average: 63.099
+         New best average reward of 63.099!
+         Test Episode 61 - Reward: 68.45, Steps: 97
+-------------------------
+Episode 675 - Reward: 53.85, Steps: 83, Epsilon: 0.38, Best: 184.6, Average: 62.928
+-------------------------
+Training - We got struck
+Episode 676 - Reward: 45.95, Steps: 126, Epsilon: 0.38, Best: 184.6, Average: 63.221
+         New best average reward of 63.221!
+         Test - We got stuck
+         Test Episode 62 - Reward: 18.05, Steps: 84
+-------------------------
+Episode 677 - Reward: 129.75, Steps: 181, Epsilon: 0.379, Best: 184.6, Average: 64.185
+         New best average reward of 64.185!
+         Test Episode 63 - Reward: 126.55, Steps: 191
+-------------------------
+Training - We got struck
+Episode 678 - Reward: 32.8, Steps: 105, Epsilon: 0.379, Best: 184.6, Average: 64.062
+-------------------------
+Training - We got struck
+Episode 679 - Reward: 33.15, Steps: 126, Epsilon: 0.378, Best: 184.6, Average: 63.147
+-------------------------
+Episode 680 - Reward: 18.3, Steps: 42, Epsilon: 0.378, Best: 184.6, Average: 62.714
+-------------------------
+Episode 681 - Reward: 70.35, Steps: 120, Epsilon: 0.377, Best: 184.6, Average: 63.079
+-------------------------
+Episode 682 - Reward: 99.95, Steps: 173, Epsilon: 0.377, Best: 184.6, Average: 63.892
+-------------------------
+Training - We got struck
+Episode 683 - Reward: 44.8, Steps: 147, Epsilon: 0.376, Best: 184.6, Average: 64.159
+-------------------------
+Training - We got struck
+Episode 684 - Reward: 45.55, Steps: 147, Epsilon: 0.376, Best: 184.6, Average: 63.999
+-------------------------
+Episode 685 - Reward: 69.3, Steps: 162, Epsilon: 0.375, Best: 184.6, Average: 63.735
+-------------------------
+Episode 686 - Reward: 55.45, Steps: 73, Epsilon: 0.375, Best: 184.6, Average: 63.715
+-------------------------
+Episode 687 - Reward: 17.1, Steps: 38, Epsilon: 0.375, Best: 184.6, Average: 63.311
+-------------------------
+Episode 688 - Reward: 99.3, Steps: 198, Epsilon: 0.374, Best: 184.6, Average: 64.105
+-------------------------
+Episode 689 - Reward: 137.0, Steps: 203, Epsilon: 0.373, Best: 184.6, Average: 64.493
+         New best average reward of 64.493!
+         Test - We got stuck
+         Test Episode 64 - Reward: 17.8, Steps: 105
+-------------------------
+Episode 690 - Reward: 56.65, Steps: 87, Epsilon: 0.373, Best: 184.6, Average: 64.51
+         New best average reward of 64.51!
+         Test Episode 65 - Reward: 57.55, Steps: 93
+-------------------------
+Episode 691 - Reward: 98.8, Steps: 172, Epsilon: 0.372, Best: 184.6, Average: 64.515
+         New best average reward of 64.515!
+         Test - We got stuck
+         Test Episode 66 - Reward: 18.55, Steps: 84
+-------------------------
+Episode 692 - Reward: 55.4, Steps: 101, Epsilon: 0.372, Best: 184.6, Average: 64.624
+         New best average reward of 64.624!
+         Test Episode 67 - Reward: 100.6, Steps: 160
+-------------------------
+Episode 693 - Reward: 98.6, Steps: 205, Epsilon: 0.371, Best: 184.6, Average: 65.152
+         New best average reward of 65.152!
+         Test - We got stuck
+         Test Episode 68 - Reward: 18.55, Steps: 84
+-------------------------
+Training - We got struck
+Episode 694 - Reward: 45.45, Steps: 126, Epsilon: 0.371, Best: 184.6, Average: 64.977
+-------------------------
+Episode 695 - Reward: 101.1, Steps: 151, Epsilon: 0.37, Best: 184.6, Average: 65.527
+         New best average reward of 65.527!
+         Test Episode 69 - Reward: 58.85, Steps: 88
+-------------------------
+Episode 696 - Reward: 76.3, Steps: 150, Epsilon: 0.37, Best: 184.6, Average: 65.569
+         New best average reward of 65.569!
+         Test Episode 70 - Reward: 99.7, Steps: 185
+-------------------------
+Episode 697 - Reward: 76.25, Steps: 193, Epsilon: 0.369, Best: 184.6, Average: 65.771
+         New best average reward of 65.771!
+         Test - We got stuck
+         Test Episode 71 - Reward: 34.05, Steps: 84
+-------------------------
+Episode 698 - Reward: 54.9, Steps: 96, Epsilon: 0.369, Best: 184.6, Average: 65.878
+         New best average reward of 65.878!
+         Test - We got stuck
+         Test Episode 72 - Reward: -20.2, Steps: 42
+-------------------------
+Episode 699 - Reward: 98.85, Steps: 222, Epsilon: 0.368, Best: 184.6, Average: 65.901
+         New best average reward of 65.901!
+         Test - We got stuck
+         Test Episode 73 - Reward: -17.2, Steps: 42
+-------------------------
+Episode 700 - Reward: 65.35, Steps: 178, Epsilon: 0.367, Best: 184.6, Average: 66.114
+         New best average reward of 66.114!
+         Test Episode 74 - Reward: 56.8, Steps: 110
+-------------------------
+Episode 701 - Reward: 18.15, Steps: 37, Epsilon: 0.367, Best: 184.6, Average: 65.723
+-------------------------
+Training - We got struck
+Episode 702 - Reward: 44.65, Steps: 168, Epsilon: 0.366, Best: 184.6, Average: 65.625
+-------------------------
+Episode 703 - Reward: 18.85, Steps: 34, Epsilon: 0.366, Best: 184.6, Average: 65.188
+-------------------------
+Episode 704 - Reward: 76.9, Steps: 149, Epsilon: 0.366, Best: 184.6, Average: 64.674
+-------------------------
+Training - We got struck
+Episode 705 - Reward: 44.9, Steps: 168, Epsilon: 0.365, Best: 184.6, Average: 64.532
+-------------------------
+Training - We got struck
+Episode 706 - Reward: 43.75, Steps: 210, Epsilon: 0.364, Best: 184.6, Average: 64.399
+-------------------------
+Episode 707 - Reward: 19.55, Steps: 28, Epsilon: 0.364, Best: 184.6, Average: 64.402
+-------------------------
+Episode 708 - Reward: 56.85, Steps: 83, Epsilon: 0.364, Best: 184.6, Average: 63.69
+-------------------------
+Episode 709 - Reward: 18.15, Steps: 37, Epsilon: 0.364, Best: 184.6, Average: 63.689
+-------------------------
+Episode 710 - Reward: 76.25, Steps: 166, Epsilon: 0.363, Best: 184.6, Average: 63.893
+-------------------------
+Training - We got struck
+Episode 711 - Reward: 45.7, Steps: 126, Epsilon: 0.363, Best: 184.6, Average: 63.729
+-------------------------
+Training - We got struck
+Episode 712 - Reward: 45.15, Steps: 168, Epsilon: 0.362, Best: 184.6, Average: 62.934
+-------------------------
+Episode 713 - Reward: 58.25, Steps: 160, Epsilon: 0.362, Best: 184.6, Average: 62.808
+-------------------------
+Episode 714 - Reward: 57.65, Steps: 94, Epsilon: 0.361, Best: 184.6, Average: 62.425
+-------------------------
+Episode 715 - Reward: 59.15, Steps: 141, Epsilon: 0.361, Best: 184.6, Average: 62.301
+-------------------------
+Episode 716 - Reward: 56.8, Steps: 114, Epsilon: 0.361, Best: 184.6, Average: 62.14
+-------------------------
+Episode 717 - Reward: 100.9, Steps: 138, Epsilon: 0.36, Best: 184.6, Average: 62.156
+-------------------------
+Episode 718 - Reward: 68.9, Steps: 144, Epsilon: 0.36, Best: 184.6, Average: 62.276
+-------------------------
+Training - We got struck
+Episode 719 - Reward: 44.0, Steps: 210, Epsilon: 0.359, Best: 184.6, Average: 61.626
+-------------------------
+Episode 720 - Reward: 59.0, Steps: 135, Epsilon: 0.358, Best: 184.6, Average: 61.771
+-------------------------
+Episode 721 - Reward: 76.1, Steps: 164, Epsilon: 0.358, Best: 184.6, Average: 61.764
+-------------------------
+Episode 722 - Reward: 98.0, Steps: 208, Epsilon: 0.357, Best: 184.6, Average: 62.034
+-------------------------
+Episode 723 - Reward: 59.0, Steps: 90, Epsilon: 0.357, Best: 184.6, Average: 61.999
+-------------------------
+Episode 724 - Reward: 127.05, Steps: 256, Epsilon: 0.356, Best: 184.6, Average: 62.937
+-------------------------
+Episode 725 - Reward: 17.1, Steps: 35, Epsilon: 0.356, Best: 184.6, Average: 62.386
+-------------------------
+Episode 726 - Reward: 99.35, Steps: 197, Epsilon: 0.355, Best: 184.6, Average: 62.434
+-------------------------
+Episode 727 - Reward: 58.55, Steps: 147, Epsilon: 0.355, Best: 184.6, Average: 62.639
+-------------------------
+Training - We got struck
+Episode 728 - Reward: 61.7, Steps: 231, Epsilon: 0.354, Best: 184.6, Average: 62.684
+-------------------------
+Episode 729 - Reward: 75.85, Steps: 162, Epsilon: 0.353, Best: 184.6, Average: 63.243
+-------------------------
+Episode 730 - Reward: 57.2, Steps: 65, Epsilon: 0.353, Best: 184.6, Average: 62.431
+-------------------------
+Episode 731 - Reward: 55.6, Steps: 81, Epsilon: 0.353, Best: 184.6, Average: 62.537
+-------------------------
+Episode 732 - Reward: 56.0, Steps: 72, Epsilon: 0.352, Best: 184.6, Average: 62.523
+-------------------------
+Training - We got struck
+Episode 733 - Reward: 43.25, Steps: 189, Epsilon: 0.352, Best: 184.6, Average: 62.385
+-------------------------
+Episode 734 - Reward: 68.9, Steps: 213, Epsilon: 0.351, Best: 184.6, Average: 61.695
+-------------------------
+Episode 735 - Reward: 54.2, Steps: 98, Epsilon: 0.351, Best: 184.6, Average: 60.955
+-------------------------
+Training - We got struck
+Episode 736 - Reward: 34.05, Steps: 84, Epsilon: 0.35, Best: 184.6, Average: 60.717
+-------------------------
+Episode 737 - Reward: 56.65, Steps: 104, Epsilon: 0.35, Best: 184.6, Average: 60.71
+-------------------------
+Episode 738 - Reward: 128.05, Steps: 189, Epsilon: 0.349, Best: 184.6, Average: 61.548
+-------------------------
+Episode 739 - Reward: 71.0, Steps: 175, Epsilon: 0.349, Best: 184.6, Average: 61.631
+-------------------------
+Episode 740 - Reward: 68.95, Steps: 134, Epsilon: 0.348, Best: 184.6, Average: 61.324
+-------------------------
+Episode 741 - Reward: 58.25, Steps: 96, Epsilon: 0.348, Best: 184.6, Average: 61.34
+-------------------------
+Episode 742 - Reward: 76.1, Steps: 188, Epsilon: 0.347, Best: 184.6, Average: 61.527
+-------------------------
+Episode 743 - Reward: 19.55, Steps: 30, Epsilon: 0.347, Best: 184.6, Average: 61.047
+-------------------------
+Episode 744 - Reward: 69.2, Steps: 157, Epsilon: 0.347, Best: 184.6, Average: 61.549
+-------------------------
+Episode 745 - Reward: 58.35, Steps: 87, Epsilon: 0.347, Best: 184.6, Average: 61.563
+-------------------------
+Episode 746 - Reward: 129.15, Steps: 188, Epsilon: 0.346, Best: 184.6, Average: 62.404
+-------------------------
+Training - We got struck
+Episode 747 - Reward: 44.65, Steps: 168, Epsilon: 0.345, Best: 184.6, Average: 62.288
+-------------------------
+Episode 748 - Reward: 69.65, Steps: 182, Epsilon: 0.345, Best: 184.6, Average: 62.428
+-------------------------
+Episode 749 - Reward: 56.7, Steps: 106, Epsilon: 0.344, Best: 184.6, Average: 62.668
+-------------------------
+Episode 750 - Reward: 72.1, Steps: 165, Epsilon: 0.344, Best: 184.6, Average: 62.823
+-------------------------
+Episode 751 - Reward: 56.3, Steps: 115, Epsilon: 0.343, Best: 184.6, Average: 63.188
+-------------------------
+Episode 752 - Reward: 55.7, Steps: 75, Epsilon: 0.343, Best: 184.6, Average: 63.186
+-------------------------
+Episode 753 - Reward: 77.3, Steps: 155, Epsilon: 0.343, Best: 184.6, Average: 63.371
+-------------------------
+Episode 754 - Reward: 124.25, Steps: 261, Epsilon: 0.342, Best: 184.6, Average: 62.801
+-------------------------
+Episode 755 - Reward: 126.0, Steps: 239, Epsilon: 0.341, Best: 184.6, Average: 63.737
+-------------------------
+Episode 756 - Reward: 55.0, Steps: 109, Epsilon: 0.341, Best: 184.6, Average: 63.827
+-------------------------
+Episode 757 - Reward: 71.6, Steps: 165, Epsilon: 0.34, Best: 184.6, Average: 64.017
+-------------------------
+Episode 758 - Reward: 17.65, Steps: 43, Epsilon: 0.34, Best: 184.6, Average: 63.86
+-------------------------
+Episode 759 - Reward: 53.0, Steps: 136, Epsilon: 0.34, Best: 184.6, Average: 63.945
+-------------------------
+Training - We got struck
+Episode 760 - Reward: 34.05, Steps: 105, Epsilon: 0.339, Best: 184.6, Average: 63.73
+-------------------------
+Training - We got struck
+Episode 761 - Reward: 63.0, Steps: 168, Epsilon: 0.339, Best: 184.6, Average: 63.739
+-------------------------
+Episode 762 - Reward: 57.55, Steps: 147, Epsilon: 0.338, Best: 184.6, Average: 63.637
+-------------------------
+Episode 763 - Reward: 59.6, Steps: 106, Epsilon: 0.338, Best: 184.6, Average: 64.053
+-------------------------
+Training - We got struck
+Episode 764 - Reward: 45.65, Steps: 168, Epsilon: 0.337, Best: 184.6, Average: 63.23
+-------------------------
+Training - We got struck
+Episode 765 - Reward: 32.65, Steps: 126, Epsilon: 0.337, Best: 184.6, Average: 62.979
+-------------------------
+Training - We got struck
+Episode 766 - Reward: 32.8, Steps: 105, Epsilon: 0.336, Best: 184.6, Average: 62.854
+-------------------------
+Episode 767 - Reward: 60.55, Steps: 95, Epsilon: 0.336, Best: 184.6, Average: 63.142
+-------------------------
+Episode 768 - Reward: 17.15, Steps: 41, Epsilon: 0.336, Best: 184.6, Average: 62.981
+-------------------------
+Episode 769 - Reward: 59.35, Steps: 156, Epsilon: 0.336, Best: 184.6, Average: 63.119
+-------------------------
+Episode 770 - Reward: 55.7, Steps: 105, Epsilon: 0.335, Best: 184.6, Average: 63.09
+-------------------------
+Episode 771 - Reward: 56.95, Steps: 83, Epsilon: 0.335, Best: 184.6, Average: 63.211
+-------------------------
+Episode 772 - Reward: 100.15, Steps: 215, Epsilon: 0.334, Best: 184.6, Average: 63.646
+-------------------------
+Training - We got struck
+Episode 773 - Reward: 62.35, Steps: 189, Epsilon: 0.334, Best: 184.6, Average: 63.283
+-------------------------
+Episode 774 - Reward: 54.9, Steps: 89, Epsilon: 0.333, Best: 184.6, Average: 62.432
+-------------------------
+Episode 775 - Reward: 99.1, Steps: 199, Epsilon: 0.333, Best: 184.6, Average: 62.885
+-------------------------
+Episode 776 - Reward: 55.45, Steps: 130, Epsilon: 0.332, Best: 184.6, Average: 62.98
+-------------------------
+Training - We got struck
+Episode 777 - Reward: 62.1, Steps: 210, Epsilon: 0.332, Best: 184.6, Average: 62.303
+-------------------------
+Episode 778 - Reward: 55.05, Steps: 125, Epsilon: 0.331, Best: 184.6, Average: 62.526
+-------------------------
+Episode 779 - Reward: 97.65, Steps: 232, Epsilon: 0.33, Best: 184.6, Average: 63.171
+-------------------------
+Episode 780 - Reward: 58.0, Steps: 93, Epsilon: 0.33, Best: 184.6, Average: 63.568
+-------------------------
+Episode 781 - Reward: 18.05, Steps: 32, Epsilon: 0.33, Best: 184.6, Average: 63.045
+-------------------------
+Training - We got struck
+Episode 782 - Reward: 62.6, Steps: 189, Epsilon: 0.329, Best: 184.6, Average: 62.671
+-------------------------
+Episode 783 - Reward: 128.65, Steps: 184, Epsilon: 0.329, Best: 184.6, Average: 63.51
+-------------------------
+Episode 784 - Reward: 101.75, Steps: 149, Epsilon: 0.328, Best: 184.6, Average: 64.072
+-------------------------
+Episode 785 - Reward: 71.35, Steps: 162, Epsilon: 0.328, Best: 184.6, Average: 64.092
+-------------------------
+Episode 786 - Reward: 18.85, Steps: 32, Epsilon: 0.328, Best: 184.6, Average: 63.726
+-------------------------
+Episode 787 - Reward: 100.9, Steps: 148, Epsilon: 0.327, Best: 184.6, Average: 64.564
+-------------------------
+Episode 788 - Reward: 162.55, Steps: 243, Epsilon: 0.327, Best: 184.6, Average: 65.197
+-------------------------
+Episode 789 - Reward: 151.7, Steps: 187, Epsilon: 0.326, Best: 184.6, Average: 65.344
+-------------------------
+Episode 790 - Reward: 73.55, Steps: 170, Epsilon: 0.325, Best: 184.6, Average: 65.513
+-------------------------
+Episode 791 - Reward: 57.7, Steps: 179, Epsilon: 0.325, Best: 184.6, Average: 65.102
+-------------------------
+Episode 792 - Reward: 57.4, Steps: 110, Epsilon: 0.324, Best: 184.6, Average: 65.122
+-------------------------
+Episode 793 - Reward: 18.2, Steps: 39, Epsilon: 0.324, Best: 184.6, Average: 64.318
+-------------------------
+Episode 794 - Reward: 17.3, Steps: 41, Epsilon: 0.324, Best: 184.6, Average: 64.036
+-------------------------
+Episode 795 - Reward: 69.35, Steps: 169, Epsilon: 0.324, Best: 184.6, Average: 63.719
+-------------------------
+Episode 796 - Reward: 56.3, Steps: 90, Epsilon: 0.323, Best: 184.6, Average: 63.519
+-------------------------
+Training - We got struck
+Episode 797 - Reward: 45.55, Steps: 147, Epsilon: 0.323, Best: 184.6, Average: 63.212
+-------------------------
+Training - We got struck
+Episode 798 - Reward: 32.8, Steps: 105, Epsilon: 0.323, Best: 184.6, Average: 62.991
+-------------------------
+Training - We got struck
+Episode 799 - Reward: 60.5, Steps: 315, Epsilon: 0.322, Best: 184.6, Average: 62.607
+-------------------------
+Episode 800 - Reward: 57.6, Steps: 158, Epsilon: 0.321, Best: 184.6, Average: 62.53
+-------------------------
+Episode 801 - Reward: 59.9, Steps: 95, Epsilon: 0.321, Best: 184.6, Average: 62.947
+-------------------------
+Training - We got struck
+Episode 802 - Reward: 34.05, Steps: 84, Epsilon: 0.321, Best: 184.6, Average: 62.841
+-------------------------
+Episode 803 - Reward: 71.5, Steps: 162, Epsilon: 0.32, Best: 184.6, Average: 63.368
+-------------------------
+Episode 804 - Reward: 58.35, Steps: 159, Epsilon: 0.32, Best: 184.6, Average: 63.182
+-------------------------
+Training - We got struck
+Episode 805 - Reward: 60.65, Steps: 273, Epsilon: 0.319, Best: 184.6, Average: 63.34
+-------------------------
+Training - We got struck
+Episode 806 - Reward: 45.45, Steps: 126, Epsilon: 0.318, Best: 184.6, Average: 63.357
+-------------------------
+Training - We got struck
+Episode 807 - Reward: 45.45, Steps: 126, Epsilon: 0.318, Best: 184.6, Average: 63.616
+-------------------------
+Training - We got struck
+Episode 808 - Reward: 32.75, Steps: 147, Epsilon: 0.318, Best: 184.6, Average: 63.375
+-------------------------
+Episode 809 - Reward: 125.75, Steps: 269, Epsilon: 0.317, Best: 184.6, Average: 64.451
+-------------------------
+Training - We got struck
+Episode 810 - Reward: 32.9, Steps: 126, Epsilon: 0.316, Best: 184.6, Average: 64.017
+-------------------------
+Training - We got struck
+Episode 811 - Reward: 43.75, Steps: 210, Epsilon: 0.316, Best: 184.6, Average: 63.998
+-------------------------
+Episode 812 - Reward: 73.45, Steps: 137, Epsilon: 0.315, Best: 184.6, Average: 64.281
+-------------------------
+Training - We got struck
+Episode 813 - Reward: 45.4, Steps: 168, Epsilon: 0.315, Best: 184.6, Average: 64.152
+-------------------------
+Training - We got struck
+Episode 814 - Reward: 32.8, Steps: 105, Epsilon: 0.314, Best: 184.6, Average: 63.904
+-------------------------
+Training - We got struck
+Episode 815 - Reward: 31.45, Steps: 210, Epsilon: 0.314, Best: 184.6, Average: 63.627
+-------------------------
+Training - We got struck
+Episode 816 - Reward: 62.5, Steps: 168, Epsilon: 0.313, Best: 184.6, Average: 63.684
+-------------------------
+Episode 817 - Reward: 55.55, Steps: 74, Epsilon: 0.313, Best: 184.6, Average: 63.23
+-------------------------
+Episode 818 - Reward: 99.1, Steps: 183, Epsilon: 0.313, Best: 184.6, Average: 63.532
+-------------------------
+Training - We got struck
+Episode 819 - Reward: 31.9, Steps: 126, Epsilon: 0.312, Best: 184.6, Average: 63.411
+-------------------------
+Episode 820 - Reward: 59.8, Steps: 97, Epsilon: 0.312, Best: 184.6, Average: 63.419
+-------------------------
+Episode 821 - Reward: 101.65, Steps: 171, Epsilon: 0.311, Best: 184.6, Average: 63.675
+-------------------------
+Episode 822 - Reward: 57.7, Steps: 154, Epsilon: 0.311, Best: 184.6, Average: 63.272
+-------------------------
+Training - We got struck
+Episode 823 - Reward: 45.8, Steps: 147, Epsilon: 0.31, Best: 184.6, Average: 63.14
+-------------------------
+Episode 824 - Reward: 54.65, Steps: 102, Epsilon: 0.31, Best: 184.6, Average: 62.416
+-------------------------
+Episode 825 - Reward: 59.2, Steps: 150, Epsilon: 0.31, Best: 184.6, Average: 62.837
+-------------------------
+Training - We got struck
+Episode 826 - Reward: 63.05, Steps: 126, Epsilon: 0.309, Best: 184.6, Average: 62.474
+-------------------------
+Episode 827 - Reward: 67.95, Steps: 163, Epsilon: 0.309, Best: 184.6, Average: 62.568
+-------------------------
+Episode 828 - Reward: 69.15, Steps: 156, Epsilon: 0.308, Best: 184.6, Average: 62.642
+-------------------------
+Episode 829 - Reward: 58.1, Steps: 80, Epsilon: 0.308, Best: 184.6, Average: 62.465
+-------------------------
+Training - We got struck
+Episode 830 - Reward: 46.85, Steps: 105, Epsilon: 0.308, Best: 184.6, Average: 62.361
+-------------------------
+Episode 831 - Reward: 55.25, Steps: 60, Epsilon: 0.308, Best: 184.6, Average: 62.358
+-------------------------
+Episode 832 - Reward: 178.65, Steps: 311, Epsilon: 0.307, Best: 184.6, Average: 63.584
+-------------------------
+Episode 833 - Reward: 98.4, Steps: 204, Epsilon: 0.306, Best: 184.6, Average: 64.136
+-------------------------
+Training - We got struck
+Episode 834 - Reward: 42.15, Steps: 294, Epsilon: 0.305, Best: 184.6, Average: 63.868
+-------------------------
+Episode 835 - Reward: 69.35, Steps: 164, Epsilon: 0.305, Best: 184.6, Average: 64.02
+-------------------------
+Training - We got struck
+Episode 836 - Reward: 42.85, Steps: 231, Epsilon: 0.304, Best: 184.6, Average: 64.108
+-------------------------
+Episode 837 - Reward: 149.95, Steps: 335, Epsilon: 0.303, Best: 184.6, Average: 65.041
+-------------------------
+Episode 838 - Reward: 94.55, Steps: 326, Epsilon: 0.302, Best: 184.6, Average: 64.706
+-------------------------
+Training - We got struck
+Episode 839 - Reward: 63.65, Steps: 147, Epsilon: 0.302, Best: 184.6, Average: 64.632
+-------------------------
+Training - We got struck
+Episode 840 - Reward: 32.55, Steps: 105, Epsilon: 0.301, Best: 184.6, Average: 64.268
+-------------------------
+Episode 841 - Reward: 127.1, Steps: 293, Epsilon: 0.301, Best: 184.6, Average: 64.957
+-------------------------
+Training - We got struck
+Episode 842 - Reward: 44.15, Steps: 168, Epsilon: 0.3, Best: 184.6, Average: 64.637
+-------------------------
+Episode 843 - Reward: 58.5, Steps: 163, Epsilon: 0.3, Best: 184.6, Average: 65.027
+-------------------------
+Episode 844 - Reward: 98.0, Steps: 217, Epsilon: 0.299, Best: 184.6, Average: 65.315
+-------------------------
+Episode 845 - Reward: 96.95, Steps: 285, Epsilon: 0.298, Best: 184.6, Average: 65.701
+-------------------------
+Training - We got struck
+Episode 846 - Reward: 32.55, Steps: 105, Epsilon: 0.298, Best: 184.6, Average: 64.735
+-------------------------
+Episode 847 - Reward: 70.75, Steps: 177, Epsilon: 0.297, Best: 184.6, Average: 64.996
+-------------------------
+Episode 848 - Reward: 97.25, Steps: 356, Epsilon: 0.296, Best: 184.6, Average: 65.272
+-------------------------
+Episode 849 - Reward: 55.05, Steps: 86, Epsilon: 0.296, Best: 184.6, Average: 65.255
+-------------------------
+Training - We got struck
+Episode 850 - Reward: 45.55, Steps: 147, Epsilon: 0.296, Best: 184.6, Average: 64.99
+-------------------------
+Episode 851 - Reward: 74.3, Steps: 163, Epsilon: 0.295, Best: 184.6, Average: 65.17
+-------------------------
+Training - We got struck
+Episode 852 - Reward: 62.15, Steps: 147, Epsilon: 0.295, Best: 184.6, Average: 65.234
+-------------------------
+Training - We got struck
+Episode 853 - Reward: 42.15, Steps: 315, Epsilon: 0.294, Best: 184.6, Average: 64.883
+-------------------------
+Episode 854 - Reward: 76.3, Steps: 151, Epsilon: 0.293, Best: 184.6, Average: 64.403
+-------------------------
+Training - We got struck
+Episode 855 - Reward: 45.95, Steps: 126, Epsilon: 0.293, Best: 184.6, Average: 63.603
+-------------------------
+Episode 856 - Reward: 66.55, Steps: 136, Epsilon: 0.293, Best: 184.6, Average: 63.718
+-------------------------
+Episode 857 - Reward: 128.25, Steps: 237, Epsilon: 0.292, Best: 184.6, Average: 64.285
+-------------------------
+Episode 858 - Reward: 18.2, Steps: 36, Epsilon: 0.292, Best: 184.6, Average: 64.29
+-------------------------
+Training - We got struck
+Episode 859 - Reward: 34.3, Steps: 84, Epsilon: 0.292, Best: 184.6, Average: 64.103
+-------------------------
+Training - We got struck
+Episode 860 - Reward: 60.8, Steps: 252, Epsilon: 0.291, Best: 184.6, Average: 64.371
+-------------------------
+Episode 861 - Reward: 73.25, Steps: 151, Epsilon: 0.291, Best: 184.6, Average: 64.473
+-------------------------
+Episode 862 - Reward: 54.0, Steps: 103, Epsilon: 0.29, Best: 184.6, Average: 64.438
+-------------------------
+Episode 863 - Reward: 128.6, Steps: 205, Epsilon: 0.29, Best: 184.6, Average: 65.128
+-------------------------
+Training - We got struck
+Episode 864 - Reward: 33.8, Steps: 105, Epsilon: 0.289, Best: 184.6, Average: 65.009
+-------------------------
+Episode 865 - Reward: 74.65, Steps: 247, Epsilon: 0.289, Best: 184.6, Average: 65.429
+-------------------------
+Episode 866 - Reward: 56.95, Steps: 83, Epsilon: 0.288, Best: 184.6, Average: 65.671
+-------------------------
+Episode 867 - Reward: 56.85, Steps: 112, Epsilon: 0.288, Best: 184.6, Average: 65.634
+-------------------------
+Episode 868 - Reward: 180.2, Steps: 328, Epsilon: 0.287, Best: 184.6, Average: 67.264
+         New best average reward of 67.264!
+         Test - We got stuck
+         Test Episode 75 - Reward: 63.25, Steps: 168
+-------------------------
+Episode 869 - Reward: 97.7, Steps: 185, Epsilon: 0.287, Best: 184.6, Average: 67.648
+         New best average reward of 67.648!
+         Test - We got stuck
+         Test Episode 76 - Reward: 62.1, Steps: 210
+-------------------------
+Episode 870 - Reward: 54.8, Steps: 96, Epsilon: 0.286, Best: 184.6, Average: 67.639
+-------------------------
+Training - We got struck
+Episode 871 - Reward: 32.1, Steps: 168, Epsilon: 0.286, Best: 184.6, Average: 67.39
+-------------------------
+Episode 872 - Reward: 77.0, Steps: 166, Epsilon: 0.286, Best: 184.6, Average: 67.159
+-------------------------
+Episode 873 - Reward: 68.0, Steps: 203, Epsilon: 0.285, Best: 184.6, Average: 67.215
+-------------------------
+Training - We got struck
+Episode 874 - Reward: 62.1, Steps: 189, Epsilon: 0.284, Best: 184.6, Average: 67.287
+-------------------------
+Training - We got struck
+Episode 875 - Reward: 63.65, Steps: 147, Epsilon: 0.284, Best: 184.6, Average: 66.933
+-------------------------
+Episode 876 - Reward: 69.2, Steps: 162, Epsilon: 0.284, Best: 184.6, Average: 67.07
+-------------------------
+Episode 877 - Reward: 53.8, Steps: 100, Epsilon: 0.283, Best: 184.6, Average: 66.987
+-------------------------
+Training - We got struck
+Episode 878 - Reward: 63.0, Steps: 168, Epsilon: 0.283, Best: 184.6, Average: 67.067
+-------------------------
+Episode 879 - Reward: 60.0, Steps: 86, Epsilon: 0.283, Best: 184.6, Average: 66.69
+-------------------------
+Episode 880 - Reward: 55.35, Steps: 92, Epsilon: 0.282, Best: 184.6, Average: 66.664
+-------------------------
+Episode 881 - Reward: 54.45, Steps: 105, Epsilon: 0.282, Best: 184.6, Average: 67.028
+-------------------------
+Episode 882 - Reward: 98.6, Steps: 273, Epsilon: 0.281, Best: 184.6, Average: 67.388
+-------------------------
+Episode 883 - Reward: 17.85, Steps: 31, Epsilon: 0.281, Best: 184.6, Average: 66.28
+-------------------------
+Training - We got struck
+Episode 884 - Reward: 33.8, Steps: 105, Epsilon: 0.281, Best: 184.6, Average: 65.6
+-------------------------
+Episode 885 - Reward: 75.15, Steps: 245, Epsilon: 0.28, Best: 184.6, Average: 65.638
+-------------------------
+Episode 886 - Reward: 99.45, Steps: 155, Epsilon: 0.28, Best: 184.6, Average: 66.444
+-------------------------
+Episode 887 - Reward: 55.4, Steps: 98, Epsilon: 0.28, Best: 184.6, Average: 65.989
+-------------------------
+Episode 888 - Reward: 75.9, Steps: 173, Epsilon: 0.279, Best: 184.6, Average: 65.123
+-------------------------
+Training - We got struck
+Episode 889 - Reward: 58.75, Steps: 441, Epsilon: 0.278, Best: 184.6, Average: 64.193
+-------------------------
+Training - We got struck
+Episode 890 - Reward: 61.4, Steps: 147, Epsilon: 0.278, Best: 184.6, Average: 64.072
+-------------------------
+Episode 891 - Reward: 59.1, Steps: 84, Epsilon: 0.277, Best: 184.6, Average: 64.086
+-------------------------
+Training - We got struck
+Episode 892 - Reward: 44.8, Steps: 147, Epsilon: 0.277, Best: 184.6, Average: 63.96
+-------------------------
+Episode 893 - Reward: 56.9, Steps: 81, Epsilon: 0.277, Best: 184.6, Average: 64.347
+-------------------------
+Training - We got struck
+Episode 894 - Reward: 34.05, Steps: 84, Epsilon: 0.277, Best: 184.6, Average: 64.514
+-------------------------
+Episode 895 - Reward: 18.4, Steps: 30, Epsilon: 0.276, Best: 184.6, Average: 64.005
+-------------------------
+Training - We got struck
+Episode 896 - Reward: 60.75, Steps: 294, Epsilon: 0.276, Best: 184.6, Average: 64.049
+-------------------------
+Episode 897 - Reward: 58.0, Steps: 162, Epsilon: 0.275, Best: 184.6, Average: 64.174
+-------------------------
+Training - We got struck
+Episode 898 - Reward: 60.25, Steps: 294, Epsilon: 0.274, Best: 184.6, Average: 64.448
+-------------------------
+Episode 899 - Reward: 55.35, Steps: 96, Epsilon: 0.274, Best: 184.6, Average: 64.397
+-------------------------
+Episode 900 - Reward: 100.9, Steps: 192, Epsilon: 0.274, Best: 184.6, Average: 64.83
+-------------------------
+Training - We got struck
+Episode 901 - Reward: 45.85, Steps: 105, Epsilon: 0.273, Best: 184.6, Average: 64.689
+-------------------------
+Training - We got struck
+Episode 902 - Reward: 62.75, Steps: 168, Epsilon: 0.273, Best: 184.6, Average: 64.976
+-------------------------
+Episode 903 - Reward: 54.85, Steps: 95, Epsilon: 0.273, Best: 184.6, Average: 64.81
+-------------------------
+Episode 904 - Reward: 56.95, Steps: 77, Epsilon: 0.273, Best: 184.6, Average: 64.796
+-------------------------
+Episode 905 - Reward: 55.65, Steps: 61, Epsilon: 0.272, Best: 184.6, Average: 64.746
+-------------------------
+Training - We got struck
+Episode 906 - Reward: 32.9, Steps: 126, Epsilon: 0.272, Best: 184.6, Average: 64.62
+-------------------------
+Episode 907 - Reward: 60.3, Steps: 99, Epsilon: 0.272, Best: 184.6, Average: 64.769
+-------------------------
+Episode 908 - Reward: 18.3, Steps: 39, Epsilon: 0.272, Best: 184.6, Average: 64.624
+-------------------------
+Episode 909 - Reward: 99.3, Steps: 180, Epsilon: 0.271, Best: 184.6, Average: 64.36
+-------------------------
+Episode 910 - Reward: 55.7, Steps: 79, Epsilon: 0.271, Best: 184.6, Average: 64.588
+-------------------------
+Episode 911 - Reward: 55.8, Steps: 82, Epsilon: 0.271, Best: 184.6, Average: 64.708
+-------------------------
+Episode 912 - Reward: 17.7, Steps: 44, Epsilon: 0.271, Best: 184.6, Average: 64.151
+-------------------------
+Episode 913 - Reward: 17.7, Steps: 42, Epsilon: 0.271, Best: 184.6, Average: 63.874
+-------------------------
+Episode 914 - Reward: 54.7, Steps: 113, Epsilon: 0.27, Best: 184.6, Average: 64.093
+-------------------------
+Episode 915 - Reward: 55.45, Steps: 76, Epsilon: 0.27, Best: 184.6, Average: 64.333
+-------------------------
+Episode 916 - Reward: 56.15, Steps: 83, Epsilon: 0.27, Best: 184.6, Average: 64.269
+-------------------------
+Episode 917 - Reward: 55.5, Steps: 86, Epsilon: 0.27, Best: 184.6, Average: 64.269
+-------------------------
+Episode 918 - Reward: 58.7, Steps: 154, Epsilon: 0.269, Best: 184.6, Average: 63.865
+-------------------------
+Episode 919 - Reward: 57.25, Steps: 81, Epsilon: 0.269, Best: 184.6, Average: 64.118
+-------------------------
+Training - We got struck
+Episode 920 - Reward: 45.3, Steps: 147, Epsilon: 0.269, Best: 184.6, Average: 63.973
+-------------------------
+Episode 921 - Reward: 57.2, Steps: 78, Epsilon: 0.268, Best: 184.6, Average: 63.529
+-------------------------
+Episode 922 - Reward: 18.05, Steps: 33, Epsilon: 0.268, Best: 184.6, Average: 63.132
+-------------------------
+Training - We got struck
+Episode 923 - Reward: 45.95, Steps: 126, Epsilon: 0.268, Best: 184.6, Average: 63.134
+-------------------------
+Training - We got struck
+Episode 924 - Reward: 46.05, Steps: 147, Epsilon: 0.268, Best: 184.6, Average: 63.048
+-------------------------
+Episode 925 - Reward: 17.8, Steps: 33, Epsilon: 0.268, Best: 184.6, Average: 62.634
+-------------------------
+Episode 926 - Reward: 72.95, Steps: 160, Epsilon: 0.267, Best: 184.6, Average: 62.733
+-------------------------
+Episode 927 - Reward: 54.65, Steps: 100, Epsilon: 0.267, Best: 184.6, Average: 62.6
+-------------------------
+Episode 928 - Reward: 57.6, Steps: 79, Epsilon: 0.267, Best: 184.6, Average: 62.484
+-------------------------
+Training - We got struck
+Episode 929 - Reward: 33.8, Steps: 105, Epsilon: 0.266, Best: 184.6, Average: 62.241
+-------------------------
+Training - We got struck
+Episode 930 - Reward: 33.55, Steps: 105, Epsilon: 0.266, Best: 184.6, Average: 62.108
+-------------------------
+Episode 931 - Reward: 18.75, Steps: 40, Epsilon: 0.266, Best: 184.6, Average: 61.743
+-------------------------
+Training - We got struck
+Episode 932 - Reward: 33.15, Steps: 126, Epsilon: 0.266, Best: 184.6, Average: 60.288
+-------------------------
+Training - We got struck
+Episode 933 - Reward: 33.15, Steps: 126, Epsilon: 0.265, Best: 184.6, Average: 59.636
+-------------------------
+Episode 934 - Reward: 96.8, Steps: 264, Epsilon: 0.265, Best: 184.6, Average: 60.182
+-------------------------
+Training - We got struck
+Episode 935 - Reward: 45.05, Steps: 147, Epsilon: 0.264, Best: 184.6, Average: 59.939
+-------------------------
+Training - We got struck
+Episode 936 - Reward: 43.6, Steps: 231, Epsilon: 0.264, Best: 184.6, Average: 59.947
+-------------------------
+Training - We got struck
+Episode 937 - Reward: 32.9, Steps: 126, Epsilon: 0.263, Best: 184.6, Average: 58.776
+-------------------------
+Training - We got struck
+Episode 938 - Reward: 31.7, Steps: 189, Epsilon: 0.263, Best: 184.6, Average: 58.148
+-------------------------
+Episode 939 - Reward: 18.25, Steps: 42, Epsilon: 0.263, Best: 184.6, Average: 57.694
+-------------------------
+Episode 940 - Reward: 58.55, Steps: 149, Epsilon: 0.262, Best: 184.6, Average: 57.954
+-------------------------
+Training - We got struck
+Episode 941 - Reward: 46.7, Steps: 126, Epsilon: 0.262, Best: 184.6, Average: 57.15
+-------------------------
+Episode 942 - Reward: 125.3, Steps: 309, Epsilon: 0.261, Best: 184.6, Average: 57.961
+-------------------------
+Episode 943 - Reward: 54.45, Steps: 96, Epsilon: 0.261, Best: 184.6, Average: 57.921
+-------------------------
+Episode 944 - Reward: 55.5, Steps: 102, Epsilon: 0.261, Best: 184.6, Average: 57.496
+-------------------------
+Episode 945 - Reward: 55.15, Steps: 107, Epsilon: 0.261, Best: 184.6, Average: 57.078
+-------------------------
+Episode 946 - Reward: 19.55, Steps: 31, Epsilon: 0.261, Best: 184.6, Average: 56.948
+-------------------------
+Episode 947 - Reward: 127.75, Steps: 252, Epsilon: 0.26, Best: 184.6, Average: 57.518
+-------------------------
+Episode 948 - Reward: 55.2, Steps: 125, Epsilon: 0.26, Best: 184.6, Average: 57.097
+-------------------------
+Training - We got struck
+Episode 949 - Reward: 62.5, Steps: 168, Epsilon: 0.259, Best: 184.6, Average: 57.172
+-------------------------
+Episode 950 - Reward: 18.25, Steps: 37, Epsilon: 0.259, Best: 184.6, Average: 56.899
+-------------------------
+Training - We got struck
+Episode 951 - Reward: 44.65, Steps: 168, Epsilon: 0.259, Best: 184.6, Average: 56.602
+-------------------------
+Episode 952 - Reward: 55.95, Steps: 99, Epsilon: 0.258, Best: 184.6, Average: 56.54
+-------------------------
+Episode 953 - Reward: 69.35, Steps: 161, Epsilon: 0.258, Best: 184.6, Average: 56.812
+-------------------------
+Episode 954 - Reward: 76.45, Steps: 181, Epsilon: 0.258, Best: 184.6, Average: 56.814
+-------------------------
+Training - We got struck
+Episode 955 - Reward: 44.4, Steps: 168, Epsilon: 0.257, Best: 184.6, Average: 56.798
+-------------------------
+Episode 956 - Reward: 97.15, Steps: 297, Epsilon: 0.256, Best: 184.6, Average: 57.104
+-------------------------
+Training - We got struck
+Episode 957 - Reward: 32.75, Steps: 147, Epsilon: 0.256, Best: 184.6, Average: 56.149
+-------------------------
+Episode 958 - Reward: 126.1, Steps: 249, Epsilon: 0.255, Best: 184.6, Average: 57.228
+-------------------------
+Training - We got struck
+Episode 959 - Reward: 44.8, Steps: 147, Epsilon: 0.255, Best: 184.6, Average: 57.333
+-------------------------
+Episode 960 - Reward: 99.9, Steps: 185, Epsilon: 0.255, Best: 184.6, Average: 57.724
+-------------------------
+Training - We got struck
+Episode 961 - Reward: 56.0, Steps: 168, Epsilon: 0.254, Best: 184.6, Average: 57.552
+-------------------------
+Episode 962 - Reward: 55.2, Steps: 90, Epsilon: 0.254, Best: 184.6, Average: 57.564
+-------------------------
+Training - We got struck
+Episode 963 - Reward: 33.55, Steps: 105, Epsilon: 0.254, Best: 184.6, Average: 56.613
+-------------------------
+Episode 964 - Reward: 55.9, Steps: 79, Epsilon: 0.254, Best: 184.6, Average: 56.834
+-------------------------
+Episode 965 - Reward: 125.25, Steps: 241, Epsilon: 0.253, Best: 184.6, Average: 57.34
+-------------------------
+Episode 966 - Reward: 19.1, Steps: 40, Epsilon: 0.253, Best: 184.6, Average: 56.962
+-------------------------
+Training - We got struck
+Episode 967 - Reward: 45.55, Steps: 147, Epsilon: 0.253, Best: 184.6, Average: 56.849
+-------------------------
+Episode 968 - Reward: 98.8, Steps: 195, Epsilon: 0.252, Best: 184.6, Average: 56.035
+-------------------------
+Episode 969 - Reward: 69.5, Steps: 138, Epsilon: 0.252, Best: 184.6, Average: 55.753
+-------------------------
+Episode 970 - Reward: 59.2, Steps: 154, Epsilon: 0.251, Best: 184.6, Average: 55.797
+-------------------------
+Training - We got struck
+Episode 971 - Reward: 61.35, Steps: 210, Epsilon: 0.251, Best: 184.6, Average: 56.089
+-------------------------
+Episode 972 - Reward: 55.65, Steps: 102, Epsilon: 0.251, Best: 184.6, Average: 55.876
+-------------------------
+Episode 973 - Reward: 58.35, Steps: 97, Epsilon: 0.25, Best: 184.6, Average: 55.779
+-------------------------
+Episode 974 - Reward: 127.3, Steps: 222, Epsilon: 0.25, Best: 184.6, Average: 56.431
+-------------------------
+Training - We got struck
+Episode 975 - Reward: 44.0, Steps: 189, Epsilon: 0.249, Best: 184.6, Average: 56.235
+-------------------------
+Episode 976 - Reward: 100.1, Steps: 136, Epsilon: 0.249, Best: 184.6, Average: 56.544
+-------------------------
+Episode 977 - Reward: 56.55, Steps: 94, Epsilon: 0.249, Best: 184.6, Average: 56.571
+-------------------------
+Episode 978 - Reward: 73.8, Steps: 254, Epsilon: 0.248, Best: 184.6, Average: 56.679
+-------------------------
+Episode 979 - Reward: 58.65, Steps: 97, Epsilon: 0.248, Best: 184.6, Average: 56.666
+-------------------------
+Episode 980 - Reward: 72.15, Steps: 161, Epsilon: 0.248, Best: 184.6, Average: 56.834
+-------------------------
+Training - We got struck
+Episode 981 - Reward: 45.45, Steps: 126, Epsilon: 0.247, Best: 184.6, Average: 56.744
+-------------------------
+Episode 982 - Reward: 97.3, Steps: 195, Epsilon: 0.247, Best: 184.6, Average: 56.731
+-------------------------
+Training - We got struck
+Episode 983 - Reward: 62.35, Steps: 210, Epsilon: 0.246, Best: 184.6, Average: 57.176
+-------------------------
+Episode 984 - Reward: 65.6, Steps: 148, Epsilon: 0.246, Best: 184.6, Average: 57.494
+-------------------------
+Episode 985 - Reward: 55.0, Steps: 105, Epsilon: 0.246, Best: 184.6, Average: 57.292
+-------------------------
+Training - We got struck
+Episode 986 - Reward: 60.7, Steps: 231, Epsilon: 0.245, Best: 184.6, Average: 56.905
+-------------------------
+Training - We got struck
+Episode 987 - Reward: 62.6, Steps: 189, Epsilon: 0.245, Best: 184.6, Average: 56.977
+-------------------------
+Training - We got struck
+Episode 988 - Reward: 63.05, Steps: 126, Epsilon: 0.244, Best: 184.6, Average: 56.848
+-------------------------
+Episode 989 - Reward: 126.05, Steps: 313, Epsilon: 0.244, Best: 184.6, Average: 57.521
+-------------------------
+Episode 990 - Reward: 127.2, Steps: 151, Epsilon: 0.243, Best: 184.6, Average: 58.179
+-------------------------
+Training - We got struck
+Episode 991 - Reward: 43.3, Steps: 273, Epsilon: 0.243, Best: 184.6, Average: 58.021
+-------------------------
+Episode 992 - Reward: 163.0, Steps: 255, Epsilon: 0.242, Best: 184.6, Average: 59.203
+-------------------------
+Episode 993 - Reward: 128.4, Steps: 208, Epsilon: 0.242, Best: 184.6, Average: 59.918
+-------------------------
+Episode 994 - Reward: 72.15, Steps: 372, Epsilon: 0.241, Best: 184.6, Average: 60.299
+-------------------------
+Episode 995 - Reward: 100.35, Steps: 189, Epsilon: 0.24, Best: 184.6, Average: 61.119
+-------------------------
+Training - We got struck
+Episode 996 - Reward: 46.15, Steps: 168, Epsilon: 0.24, Best: 184.6, Average: 60.973
+-------------------------
+Training - We got struck
+Episode 997 - Reward: 41.95, Steps: 252, Epsilon: 0.239, Best: 184.6, Average: 60.812
+-------------------------
+Episode 998 - Reward: 57.85, Steps: 98, Epsilon: 0.239, Best: 184.6, Average: 60.788
+-------------------------
+Training - We got struck
+Episode 999 - Reward: 60.0, Steps: 315, Epsilon: 0.238, Best: 184.6, Average: 60.835
+-------------------------
+End Training:
+Training Flag Reached: 0
+---
+Test Flag Reached: 0
+**************************************************
